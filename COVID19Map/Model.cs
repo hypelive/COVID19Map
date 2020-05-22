@@ -14,14 +14,17 @@ namespace COVID19Map
         private List<CountryData> data;
         private string pathToStatModules;
 
-        public IEnumerable<CountryData> getCOVIDData()
+        public Model()
+        {
+            data = new List<CountryData>() { new CountryData() { Name= "Russia" , Latitude= 55.75393, Longitude= 37.620695, CasesCount = 100000 } };
+        }
+
+        public IEnumerable<CountryData> GetCOVIDData()
         {
             foreach (var countryData in data)
             {
                 yield return countryData;
             }
-
-            yield break;
         }
     }
 }

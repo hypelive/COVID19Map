@@ -7,3 +7,7 @@ C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.Generat
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.exe
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.pdb
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.MainForm.resources
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\GMap.NET.Core.dll
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.CoreCompileInputs.cache
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.CopyComplete

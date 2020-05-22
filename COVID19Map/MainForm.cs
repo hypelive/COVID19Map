@@ -29,11 +29,6 @@ namespace COVID19Map
 
         private void InitMap()
         {
-            gMapControl1.Bearing = 0;
-            gMapControl1.CanDragMap = true;
-
-            gMapControl1.MarkersEnabled = true;
-
             gMapControl1.MouseWheelZoomType = GMap.NET.MouseWheelZoomType.MousePositionAndCenter;
             gMapControl1.Zoom = 1;
             gMapControl1.MaxZoom = 15;

@@ -1,4 +1,6 @@
-﻿namespace COVID19Map
+﻿using System.Drawing;
+
+namespace COVID19Map
 {
     partial class MainForm
     {
@@ -99,6 +101,7 @@
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "MainForm";
             this.Text = "COVID19";
+            this.ShowIcon = false;
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.MenuBar.ResumeLayout(false);
             this.MenuBar.PerformLayout();

@@ -1,0 +1,9 @@
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\COVID19Map.exe.config
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\COVID19Map.exe
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\COVID19Map.pdb
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csprojAssemblyReference.cache
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.Properties.Resources.resources
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.GenerateResource.cache
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.exe
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.pdb
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.MainForm.resources

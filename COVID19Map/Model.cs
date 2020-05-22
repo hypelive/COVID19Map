@@ -11,10 +11,10 @@ namespace COVID19Map
         //data to visualisation
         //plugins for statisctics
 
-        private List<object> data;
+        private List<CountryData> data;
         private string pathToStatModules;
 
-        public IEnumerable<object> getCOVIDData()
+        public IEnumerable<CountryData> getCOVIDData()
         {
             foreach (var countryData in data)
             {

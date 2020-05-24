@@ -14,12 +14,19 @@ namespace COVID19Map
     public partial class MainForm : Form
     {
         private Model model;
+        private GMapOverlay marks;
 
         public MainForm()
         {
             InitializeComponent();
 
             model = new Model();
+            InitMap();
+            SetMarks();
+            foreach (var mark in marks.Markers)
+            {
+                gMapControl1.UpdateMarkerLocalPosition(mark);
+            }
         }
 
         private void pluginsInfoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -43,19 +50,13 @@ namespace COVID19Map
         private void SetMarks()
         {
             Mark.Font = DefaultFont;
-            var marks = new GMapOverlay("COVIDMarks");
+            marks = new GMapOverlay("COVIDMarks");
             foreach (var countryData in model.GetCOVIDData())
             {
                 marks.Markers.Add(new Mark(countryData.Name,
                     new GMap.NET.PointLatLng(countryData.Latitude, countryData.Longitude), countryData.CasesCount));
             }
             gMapControl1.Overlays.Add(marks);
-        }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-            InitMap();
-            SetMarks();
         }
     }
 }

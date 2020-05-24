@@ -102,7 +102,6 @@ namespace COVID19Map
             this.Name = "MainForm";
             this.Text = "COVID19";
             this.ShowIcon = false;
-            this.Load += new System.EventHandler(this.MainForm_Load);
             this.MenuBar.ResumeLayout(false);
             this.MenuBar.PerformLayout();
             this.ResumeLayout(false);

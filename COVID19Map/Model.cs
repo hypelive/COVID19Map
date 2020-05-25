@@ -16,7 +16,7 @@ namespace COVID19Map
 
         public Model()
         {
-            data = new List<CountryData>() { new CountryData() { Name= "Russia" , Latitude= 55.75393, Longitude= 37.620695, CasesCount = 100000 } };
+            data = DataCollector.GetData();
         }
 
         public IEnumerable<CountryData> GetCOVIDData()

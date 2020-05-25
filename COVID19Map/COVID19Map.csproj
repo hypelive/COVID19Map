@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CountryData.cs" />
+    <Compile Include="DataCollector.cs" />
     <Compile Include="DataParser.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>

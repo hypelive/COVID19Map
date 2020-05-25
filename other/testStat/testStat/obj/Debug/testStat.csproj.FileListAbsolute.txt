@@ -1,0 +1,9 @@
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\bin\Debug\testStat.dll
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\bin\Debug\testStat.pdb
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\bin\Debug\StatsResources.dll
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\bin\Debug\StatsResources.pdb
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\obj\Debug\testStat.csprojAssemblyReference.cache
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\obj\Debug\testStat.csproj.CoreCompileInputs.cache
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\obj\Debug\testStat.csproj.CopyComplete
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\obj\Debug\testStat.dll
+C:\Users\empil\Desktop\COVID19Map\other\testStat\testStat\obj\Debug\testStat.pdb

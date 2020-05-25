@@ -22,11 +22,13 @@ namespace COVID19Map
             Model = new Model();
             InitMap();
             SetMarks();
+            AddStats();
         }
 
         private void pluginsInfoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var messageBox = MessageBox.Show("help");
+            //add Localizat
+            var messageBox = MessageBox.Show("helpText", "Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void InitMap()
@@ -60,6 +62,26 @@ namespace COVID19Map
             {
                 gMapControl1.UpdateMarkerLocalPosition(mark);
             }
+        }
+
+        private void AddStats()
+        {
+            foreach (var stat in Model.StatPlugins)
+            {
+                var menuItem = new ToolStripMenuItem
+                {
+                    Name = stat.GetType().Name,
+                    Text = stat.GetLabel(),
+                    Size = new Size(137, 22),
+                };
+                menuItem.Click += new EventHandler((sender, e) => ShowStatistic(stat.GetStatistic(Model.GetCOVIDData().ToList())));
+                statisticsMenu.DropDownItems.Add(menuItem);
+            }
+        }
+
+        private void ShowStatistic(string statistic)
+        {
+            var messageBox = MessageBox.Show(statistic);
         }
     }
 }

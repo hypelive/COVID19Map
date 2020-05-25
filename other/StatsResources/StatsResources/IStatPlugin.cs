@@ -8,6 +8,7 @@ namespace StatsResources
 {
     public interface IStatPlugin
     {
-        void ShowStatistic(List<CountryData> data);
+        string GetStatistic(List<CountryData> data);
+        string GetLabel();
     }
 }

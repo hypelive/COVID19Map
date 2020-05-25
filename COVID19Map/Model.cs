@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StatsResources;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -19,7 +20,10 @@ namespace COVID19Map
 
         public Model()
         {
-            data = DataCollector.GetData();
+            //data = DataCollector.GetData();
+            var cd = new CountryData() { Name = "USA", CasesCount = 10000 };
+            DataParser.ParseСoordinates(cd);
+            data = new List<CountryData>() { cd };
         }
 
         public IEnumerable<CountryData> GetCOVIDData()

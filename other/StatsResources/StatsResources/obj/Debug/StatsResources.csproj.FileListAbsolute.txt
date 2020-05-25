@@ -1,0 +1,6 @@
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\bin\Debug\StatsResources.dll
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\bin\Debug\StatsResources.pdb
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\obj\Debug\StatsResources.csprojAssemblyReference.cache
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\obj\Debug\StatsResources.csproj.CoreCompileInputs.cache
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\obj\Debug\StatsResources.dll
+C:\Users\empil\Desktop\COVID19Map\other\StatsResources\StatsResources\obj\Debug\StatsResources.pdb

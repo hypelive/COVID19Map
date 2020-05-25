@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,9 @@ namespace COVID19Map
         //plugins for statisctics
 
         private List<CountryData> data;
-        private string pathToStatModules;
+        private readonly string statPluginsPath = System.IO.Path.Combine(
+                                                Directory.GetCurrentDirectory(),
+                                                "Plugins");
 
         public Model()
         {

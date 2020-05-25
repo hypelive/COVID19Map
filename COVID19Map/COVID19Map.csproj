@@ -56,8 +56,8 @@
     <Compile Include="CountryData.cs" />
     <Compile Include="DataCollector.cs" />
     <Compile Include="DataParser.cs" />
-    <Compile Include="EngMarkLocalization.cs" />
-    <Compile Include="IMarkLocalization.cs" />
+    <Compile Include="Localization\EngMarkLocalization.cs" />
+    <Compile Include="Localization\IMarkLocalization.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>

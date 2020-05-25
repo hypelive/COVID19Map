@@ -44,7 +44,7 @@ namespace COVID19Map
 
         private void SetMarks()
         {
-            Mark.Localization = new EngMarkLocalization();
+            Mark.Localization = new RuMarkLocalization(); //in DI
             Mark.Font = DefaultFont;
 
             var marks = new GMapOverlay("COVIDMarks");

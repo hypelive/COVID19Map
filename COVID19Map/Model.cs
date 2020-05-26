@@ -21,7 +21,7 @@ namespace COVID19Map
         public Model()
         {
             //Data = DataCollector.GetData();
-            var cd = new CountryData() { Name = "USA", CasesCount = 10000 };
+            var cd = new CountryData() { Name = "USA", CasesCount = 500000 };
             var p = new DataParser();
             p.ParseСoordinates(cd);
             Data = new List<CountryData>() { cd };

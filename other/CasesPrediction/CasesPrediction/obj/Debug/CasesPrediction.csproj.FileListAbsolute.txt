@@ -1,0 +1,9 @@
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\CasesPrediction.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\CasesPrediction.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\StatsResources.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\StatsResources.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.csprojAssemblyReference.cache
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.csproj.CoreCompileInputs.cache
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.csproj.CopyComplete
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.pdb

@@ -9,10 +9,10 @@ using Newtonsoft.Json;
 
 namespace COVID19Map
 {
-    class DataBase
+    static class DataBase
     {
         private static string writePath = "DB.txt";
-        public void SetToDB(CountryData data)
+        public static void SetToDB(CountryData data)
         {
             try
             {
@@ -28,17 +28,24 @@ namespace COVID19Map
             }
         }
 
-        public CountryData GetFromDB(string name)
+        public static CountryData GetFromDB(string name)
         {
-            using (StreamReader sr = new StreamReader(writePath, Encoding.Default))
+            try
             {
-                string line;
-                while ((line = sr.ReadLine()) != null)
+                using (StreamReader sr = new StreamReader(writePath, Encoding.Default))
                 {
-                    var country = JsonConvert.DeserializeObject<CountryData>(line);
-                    if (country.Name == name)
-                        return country;
+                    string line;
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        var country = JsonConvert.DeserializeObject<CountryData>(line);
+                        if (country.Name == name)
+                            return country;
+                    }
                 }
+            }
+            catch (Exception e)
+            {
+                return new CountryData();
             }
             return new CountryData();
         }

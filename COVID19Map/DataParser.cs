@@ -1,5 +1,4 @@
-﻿using StatsResources;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -11,24 +10,27 @@ using System.Threading.Tasks;
 
 namespace COVID19Map
 {
-    static class DataParser
+    class DataParser : IParser
     {
         private static string statisticURL = "https://coronavirus-monitor.info";
         private static string coordinatesURL = "http://search.maps.sputnik.ru/search/addr?q=";
         private static string startName = "США";
 
-        public static void ParseСoordinates(CountryData country)
+        public void ParseСoordinates(CountryData country)
         {
             string data = GetCode(coordinatesURL + country.Name);
             var coordRegex = new Regex(@"coordinates"":.*?(-*\d*\.\d*),(-*\d*\.\d*)");
             var coordinates = coordRegex.Match(data);
-            var style = NumberStyles.Any;
+            var style = NumberStyles.AllowDecimalPoint;
             var culture = CultureInfo.InvariantCulture;
             double.TryParse(coordinates.Groups[1].Value, style, culture, out country.Longitude);
             double.TryParse(coordinates.Groups[2].Value, style, culture, out country.Latitude);
+            Console.WriteLine(country.Name);
+            Console.WriteLine(country.Longitude);
+            Console.WriteLine(country.Latitude);
         }
 
-        public static void ParseStatistics(List<CountryData> countryDatas)
+        public void ParseStatistics(List<CountryData> countryDatas)
         {
             var isStart = false;
             string data = GetCode(statisticURL);

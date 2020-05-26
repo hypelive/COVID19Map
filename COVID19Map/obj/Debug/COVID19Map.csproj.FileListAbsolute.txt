@@ -13,3 +13,5 @@ C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.CoreCom
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\obj\Debug\COVID19Map.csproj.CopyComplete
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\StatsResources.dll
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\StatsResources.pdb
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Newtonsoft.Json.dll
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Newtonsoft.Json.xml

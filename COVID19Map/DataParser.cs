@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StatsResources;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -21,7 +22,7 @@ namespace COVID19Map
             string data = GetCode(coordinatesURL + country.Name);
             var coordRegex = new Regex(@"coordinates"":.*?(-*\d*\.\d*),(-*\d*\.\d*)");
             var coordinates = coordRegex.Match(data);
-            var style = NumberStyles.AllowDecimalPoint;
+            var style = NumberStyles.Any;
             var culture = CultureInfo.InvariantCulture;
             double.TryParse(coordinates.Groups[1].Value, style, culture, out country.Longitude);
             double.TryParse(coordinates.Groups[2].Value, style, culture, out country.Latitude);

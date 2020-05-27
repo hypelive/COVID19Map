@@ -51,18 +51,9 @@ namespace COVID19Map
             // 
             // statisticsMenu
             // 
-            this.statisticsMenu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.pluginsInfoToolStripMenuItem});
             this.statisticsMenu.Name = "statisticsMenu";
             this.statisticsMenu.Size = new System.Drawing.Size(65, 22);
             this.statisticsMenu.Text = "Statistics";
-            // 
-            // pluginsInfoToolStripMenuItem
-            // 
-            this.pluginsInfoToolStripMenuItem.Name = "pluginsInfoToolStripMenuItem";
-            this.pluginsInfoToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
-            this.pluginsInfoToolStripMenuItem.Text = "Plugins info";
-            this.pluginsInfoToolStripMenuItem.Click += new System.EventHandler(this.pluginsInfoToolStripMenuItem_Click);
             // 
             // gMapControl1
             // 

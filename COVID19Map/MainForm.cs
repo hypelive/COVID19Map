@@ -74,14 +74,19 @@ namespace COVID19Map
                     Text = stat.GetLabel(),
                     Size = new Size(137, 22),
                 };
-                menuItem.Click += new EventHandler((sender, e) => ShowStatistic(stat.GetStatistic(Model.GetCOVIDData().ToList())));
+                menuItem.Click += new EventHandler((sender, e) => ShowStatistic(stat.GetStatistic(Model.GetCOVIDData().ToList()), stat.GetLabel()));
                 statisticsMenu.DropDownItems.Add(menuItem);
             }
+            pluginsInfoToolStripMenuItem.Name = "pluginsInfoToolStripMenuItem";
+            pluginsInfoToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            pluginsInfoToolStripMenuItem.Text = "Plugins info";
+            pluginsInfoToolStripMenuItem.Click += new System.EventHandler(pluginsInfoToolStripMenuItem_Click);
+            statisticsMenu.DropDownItems.Add(pluginsInfoToolStripMenuItem);
         }
 
-        private void ShowStatistic(string statistic)
+        private void ShowStatistic(string statistic, string caption)
         {
-            var messageBox = MessageBox.Show(statistic);
+            var messageBox = MessageBox.Show(statistic, caption, MessageBoxButtons.OK);
         }
     }
 }

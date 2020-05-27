@@ -10,26 +10,44 @@ namespace CasesPrediction
     public class CasesPrediction : IStatPlugin
     {
         private const long Population = 7763035303L;
-        private const double Coefficient = .18d;
+        private const double Coefficient = .0185d;
 
         private double GetPercentAfterTime(int time, double nowPercent) => nowPercent / (nowPercent + (1- nowPercent) / Math.Pow(Math.E, Coefficient * time));
 
+        private void AddStat(StringBuilder statistic, string timeLabel, int days,
+            double nowPercent, double convalesPercent, double diedPercent)
+        {
+            var cases = (long)(GetPercentAfterTime(days, nowPercent) * Population);
+            statistic.Append($"{timeLabel}:\n");
+            statistic.Append($"    Total cases: {cases}\n");
+            statistic.Append($"    Convales: {cases * convalesPercent}\n");
+            statistic.Append($"    Died: {cases * diedPercent}\n\n");
+        }
+
         public string GetLabel()
         {
-            return "Predict total cases";
+            return "Predict statistic";
         }
 
         public string GetStatistic(List<CountryData> data)
         {
-            var totalCases = data
+            long totalCases = data
                 .Select((cd) => cd.CasesCount)
                 .Sum();
+            long totalDied = data
+                .Select((cd) => cd.DiedCount)
+                .Sum();
+            long totalConvales = data
+                .Select((cd) => cd.СonvalesCount)
+                .Sum();
             double nowPercent = (double)totalCases / Population;
+            double convalesPercent = (double)totalConvales / totalCases;
+            double diedPercent = (double)totalDied / totalCases;
             var statistic = new StringBuilder();
-            statistic.Append($"now: {totalCases}\n");
-            statistic.Append($"1 day: {(long)(GetPercentAfterTime(1, nowPercent) * Population)}\n");
-            statistic.Append($"7 day: {(long)(GetPercentAfterTime(7, nowPercent) * Population)}\n");
-            statistic.Append($"30 day: {(long)(GetPercentAfterTime(30, nowPercent) * Population)}\n");
+            AddStat(statistic, "now", 0, nowPercent, convalesPercent, diedPercent);
+            AddStat(statistic, "1 day", 1, nowPercent, convalesPercent, diedPercent);
+            AddStat(statistic, "7 days", 7, nowPercent, convalesPercent, diedPercent);
+            AddStat(statistic, "30 days", 30, nowPercent, convalesPercent, diedPercent);
             return statistic.ToString();
         }
     }

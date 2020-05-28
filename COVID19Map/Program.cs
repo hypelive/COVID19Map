@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Ninject;
 
 namespace COVID19Map
 {
@@ -16,7 +17,11 @@ namespace COVID19Map
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            var container = new StandardKernel();
+            container.Bind<IParser>().To<DataParser>();
+            container.Bind<IMarkLocalization>().ToConstant(new RuMarkLocalization());
+            var form = container.Get<MainForm>();
+            Application.Run(form);
         }
     }
 }

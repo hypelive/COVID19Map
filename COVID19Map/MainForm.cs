@@ -14,12 +14,14 @@ namespace COVID19Map
     public partial class MainForm : Form
     {
         private Model Model { get; set; }
+        private IMarkLocalization clocalization;
 
-        public MainForm()
+        public MainForm(IParser parser, IMarkLocalization localization)
         {
             InitializeComponent();
 
-            Model = new Model();
+            Model = new Model(parser);
+            clocalization = localization;
             InitMap();
             SetMarks();
             AddStats();
@@ -46,7 +48,7 @@ namespace COVID19Map
 
         private void SetMarks()
         {
-            Mark.Localization = new RuMarkLocalization(); //in DI
+            Mark.Localization = clocalization;
             Mark.Font = DefaultFont;
 
             var marks = new GMapOverlay("COVIDMarks");

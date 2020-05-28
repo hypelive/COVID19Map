@@ -1,189 +1,189 @@
-{"Name":"ÑØÀ","Latitude":39.78373,"Longitude":-100.445885,"CasesCount":3978373,"ÑonvalesCount":480321,"DiedCount":100765}
-{"Name":"Áğàçèëèÿ","Latitude":-10.333333,"Longitude":-53.2,"CasesCount":394507,"ÑonvalesCount":158593,"DiedCount":24593}
-{"Name":"Ğîññèÿ","Latitude":64.68632,"Longitude":97.74531,"CasesCount":370680,"ÑonvalesCount":142208,"DiedCount":3968}
-{"Name":"Èñïàíèÿ","Latitude":40.002804,"Longitude":-4.003104,"CasesCount":283339,"ÑonvalesCount":283339,"DiedCount":27117}
-{"Name":"Âåëèêîáğèòàíèÿ","Latitude":54.702354,"Longitude":-3.276575,"CasesCount":267240,"ÑonvalesCount":1559,"DiedCount":37460}
-{"Name":"Èòàëèÿ","Latitude":42.638428,"Longitude":12.674297,"CasesCount":230555,"ÑonvalesCount":230555,"DiedCount":32955}
-{"Name":"Ôğàíöèÿ","Latitude":46.603355,"Longitude":1.888333,"CasesCount":182722,"ÑonvalesCount":182722,"DiedCount":28530}
-{"Name":"Ãåğìàíèÿ","Latitude":51.08342,"Longitude":10.423447,"CasesCount":181530,"ÑonvalesCount":162800,"DiedCount":8498}
-{"Name":"Òóğöèÿ","Latitude":38.95976,"Longitude":34.924965,"CasesCount":158762,"ÑonvalesCount":158762,"DiedCount":4397}
-{"Name":"Èíäèÿ","Latitude":22.351114,"Longitude":78.66774,"CasesCount":154820,"ÑonvalesCount":65944,"DiedCount":4406}
-{"Name":"Èğàí","Latitude":32.94075,"Longitude":52.947132,"CasesCount":141591,"ÑonvalesCount":111176,"DiedCount":7564}
-{"Name":"Ïåğó","Latitude":-6.86997,"Longitude":-75.04585,"CasesCount":129751,"ÑonvalesCount":52906,"DiedCount":3788}
-{"Name":"Êàíàäà","Latitude":61.066692,"Longitude":-107.99171,"CasesCount":86647,"ÑonvalesCount":45339,"DiedCount":6639}
-{"Name":"Êèòàé","Latitude":35.000072,"Longitude":104.99992,"CasesCount":82993,"ÑonvalesCount":78280,"DiedCount":4634}
-{"Name":"Ñàóäîâñêàÿ Àğàâèÿ","Latitude":25.624262,"Longitude":42.352833,"CasesCount":78541,"ÑonvalesCount":51022,"DiedCount":425}
-{"Name":"×èëè","Latitude":-31.761335,"Longitude":-71.31877,"CasesCount":77961,"ÑonvalesCount":77961,"DiedCount":806}
-{"Name":"Ìåêñèêà","Latitude":22.500048,"Longitude":-100.00004,"CasesCount":74560,"ÑonvalesCount":52219,"DiedCount":8134}
-{"Name":"Ïàêèñòàí","Latitude":30.33084,"Longitude":71.2475,"CasesCount":59151,"ÑonvalesCount":19142,"DiedCount":1225}
-{"Name":"Áåëüãèÿ","Latitude":50.640736,"Longitude":4.66696,"CasesCount":57592,"ÑonvalesCount":15465,"DiedCount":9364}
-{"Name":"Êàòàğ","Latitude":25.333698,"Longitude":51.22953,"CasesCount":48947,"ÑonvalesCount":13283,"DiedCount":30}
-{"Name":"Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":45768,"ÑonvalesCount":188,"DiedCount":5871}
-{"Name":"Áåëàğóñü","Latitude":53.42506,"Longitude":27.697136,"CasesCount":38956,"ÑonvalesCount":15923,"DiedCount":214}
-{"Name":"Áàíãëàäåø","Latitude":24.476877,"Longitude":90.29324,"CasesCount":38292,"ÑonvalesCount":7925,"DiedCount":544}
-{"Name":"İêâàäîğ","Latitude":-1.339767,"Longitude":-79.3667,"CasesCount":37355,"ÑonvalesCount":37355,"DiedCount":3203}
-{"Name":"Øâåöèÿ","Latitude":59.674973,"Longitude":14.520858,"CasesCount":35088,"ÑonvalesCount":4971,"DiedCount":4220}
-{"Name":"Ñèíãàïóğ","Latitude":1.357107,"Longitude":103.819496,"CasesCount":32876,"ÑonvalesCount":17276,"DiedCount":23}
-{"Name":"Ïîğòóãàëèÿ","Latitude":40.033264,"Longitude":-7.889626,"CasesCount":31292,"ÑonvalesCount":18349,"DiedCount":1356}
-{"Name":"ÎÀİ","Latitude":24.00025,"Longitude":53.99948,"CasesCount":31086,"ÑonvalesCount":31086,"DiedCount":253}
-{"Name":"Øâåéöàğèÿ","Latitude":46.79856,"Longitude":8.231974,"CasesCount":30776,"ÑonvalesCount":28200,"DiedCount":1917}
-{"Name":"Èğëàíäèÿ","Latitude":52.865196,"Longitude":-7.97946,"CasesCount":24735,"ÑonvalesCount":24735,"DiedCount":1615}
-{"Name":"ŞÀĞ","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":24264,"ÑonvalesCount":24264,"DiedCount":524}
-{"Name":"Èíäîíåçèÿ","Latitude":-4.799336,"Longitude":114.5632,"CasesCount":23851,"ÑonvalesCount":6057,"DiedCount":1473}
-{"Name":"Êóâåéò","Latitude":29.273396,"Longitude":47.497948,"CasesCount":23267,"ÑonvalesCount":7946,"DiedCount":175}
-{"Name":"Êîëóìáèÿ","Latitude":2.893078,"Longitude":-73.78451,"CasesCount":23003,"ÑonvalesCount":5511,"DiedCount":776}
-{"Name":"Ïîëüøà","Latitude":52.097717,"Longitude":19.025816,"CasesCount":22303,"ÑonvalesCount":10330,"DiedCount":1025}
-{"Name":"Ğóìûíèÿ","Latitude":45.985214,"Longitude":24.685923,"CasesCount":18594,"ÑonvalesCount":12162,"DiedCount":1223}
-{"Name":"Èçğàèëü","Latitude":30.876026,"Longitude":35.00152,"CasesCount":16771,"ÑonvalesCount":14486,"DiedCount":281}
-{"Name":"ßïîíèÿ","Latitude":36.574844,"Longitude":139.23941,"CasesCount":16623,"ÑonvalesCount":13810,"DiedCount":846}
-{"Name":"Àâñòğèÿ","Latitude":47.200035,"Longitude":13.199959,"CasesCount":16591,"ÑonvalesCount":15228,"DiedCount":645}
-{"Name":"Äîìèíèêàíñêàÿ ğåñïóáëèêà","Latitude":19.094175,"Longitude":-70.30127,"CasesCount":15264,"ÑonvalesCount":15264,"DiedCount":468}
-{"Name":"Ôèëèïïèíû","Latitude":12.750349,"Longitude":122.73121,"CasesCount":15049,"ÑonvalesCount":3506,"DiedCount":904}
-{"Name":"Àğãåíòèíà","Latitude":-35.003902,"Longitude":-65.26997,"CasesCount":13228,"ÑonvalesCount":4349,"DiedCount":492}
-{"Name":"Àôãàíèñòàí","Latitude":33.000088,"Longitude":64.99985,"CasesCount":12456,"ÑonvalesCount":1138,"DiedCount":227}
-{"Name":"Äàíèÿ","Latitude":55.67025,"Longitude":10.333328,"CasesCount":11480,"ÑonvalesCount":10106,"DiedCount":565}
-{"Name":"Ïàíàìà","Latitude":8.309607,"Longitude":-81.306625,"CasesCount":11447,"ÑonvalesCount":6379,"DiedCount":313}
-{"Name":"Ñåğáèÿ","Latitude":44.15341,"Longitude":20.55144,"CasesCount":11275,"ÑonvalesCount":6277,"DiedCount":240}
-{"Name":"Şæíàÿ Êîğåÿ","Latitude":35.398502,"Longitude":127.93711,"CasesCount":11265,"ÑonvalesCount":10295,"DiedCount":269}
-{"Name":"Áàõğåéí","Latitude":26.155125,"Longitude":50.534462,"CasesCount":9633,"ÑonvalesCount":5142,"DiedCount":15}
-{"Name":"Êàçàõñòàí","Latitude":47.228607,"Longitude":65.20932,"CasesCount":9304,"ÑonvalesCount":4746,"DiedCount":37}
-{"Name":"×åõèÿ","Latitude":49.8167,"Longitude":15.474954,"CasesCount":9052,"ÑonvalesCount":6279,"DiedCount":317}
-{"Name":"Àëæèğ","Latitude":28.000027,"Longitude":2.999982,"CasesCount":8697,"ÑonvalesCount":8697,"DiedCount":617}
-{"Name":"Íîğâåãèÿ","Latitude":60.500023,"Longitude":9.099971,"CasesCount":8391,"ÑonvalesCount":7727,"DiedCount":235}
-{"Name":"Îìàí","Latitude":21.000029,"Longitude":57.00369,"CasesCount":8373,"ÑonvalesCount":2177,"DiedCount":38}
-{"Name":"Íèãåğèÿ","Latitude":9.600036,"Longitude":7.999972,"CasesCount":8344,"ÑonvalesCount":2385,"DiedCount":249}
-{"Name":"Àğìåíèÿ","Latitude":40.769627,"Longitude":44.673664,"CasesCount":7774,"ÑonvalesCount":3255,"DiedCount":98}
-{"Name":"Ìàëàéçèÿ","Latitude":2.392376,"Longitude":112.84719,"CasesCount":7619,"ÑonvalesCount":6083,"DiedCount":115}
-{"Name":"Ìàğîêêî","Latitude":31.17282,"Longitude":-7.336604,"CasesCount":7584,"ÑonvalesCount":4969,"DiedCount":202}
-{"Name":"Ìîëäîâà","Latitude":47.286747,"Longitude":28.511024,"CasesCount":7537,"ÑonvalesCount":3884,"DiedCount":274}
-{"Name":"Àâñòğàëèÿ","Latitude":-24.77611,"Longitude":134.755,"CasesCount":7139,"ÑonvalesCount":6566,"DiedCount":103}
-{"Name":"Áîëèâèÿ","Latitude":-17.05687,"Longitude":-64.99123,"CasesCount":7136,"ÑonvalesCount":677,"DiedCount":274}
-{"Name":"Ãàíà","Latitude":8.030028,"Longitude":-1.080027,"CasesCount":7117,"ÑonvalesCount":2317,"DiedCount":34}
-{"Name":"Ôèíëÿíäèÿ","Latitude":63.246777,"Longitude":25.920916,"CasesCount":6692,"ÑonvalesCount":5100,"DiedCount":313}
-{"Name":"Êàìåğóí","Latitude":4.612552,"Longitude":13.153581,"CasesCount":5436,"ÑonvalesCount":1996,"DiedCount":175}
-{"Name":"Èğàê","Latitude":33.095577,"Longitude":44.174976,"CasesCount":4848,"ÑonvalesCount":4848,"DiedCount":169}
-{"Name":"Àçåğáàéäæàí","Latitude":40.163666,"Longitude":47.820744,"CasesCount":4568,"ÑonvalesCount":2897,"DiedCount":54}
-{"Name":"Ãîíäóğàñ","Latitude":15.061069,"Longitude":-84.597855,"CasesCount":4401,"ÑonvalesCount":493,"DiedCount":188}
-{"Name":"Ñóäàí","Latitude":15.79125,"Longitude":30.371424,"CasesCount":4146,"ÑonvalesCount":588,"DiedCount":184}
-{"Name":"Ëşêñåìáóğã","Latitude":49.81587,"Longitude":6.129675,"CasesCount":3995,"ÑonvalesCount":3995,"DiedCount":110}
-{"Name":"Ãâàòåìàëà","Latitude":15.635609,"Longitude":-89.89881,"CasesCount":3954,"ÑonvalesCount":289,"DiedCount":63}
-{"Name":"Âåíãğèÿ","Latitude":47.18176,"Longitude":19.506094,"CasesCount":3793,"ÑonvalesCount":1856,"DiedCount":505}
-{"Name":"Òàäæèêèñòàí","Latitude":38.628174,"Longitude":70.81565,"CasesCount":3424,"ÑonvalesCount":1575,"DiedCount":47}
-{"Name":"Óçáåêèñòàí","Latitude":41.32373,"Longitude":63.95281,"CasesCount":3355,"ÑonvalesCount":2668,"DiedCount":14}
+{"Name":"ÑØÀ","Latitude":39.78373,"Longitude":-100.445885,"CasesCount":1745803,"ÑonvalesCount":490130,"DiedCount":102107}
+{"Name":"Áğàçèëèÿ","Latitude":-10.333333,"Longitude":-53.2,"CasesCount":414661,"ÑonvalesCount":166647,"DiedCount":25697}
+{"Name":"Ğîññèÿ","Latitude":64.68632,"Longitude":97.74531,"CasesCount":379051,"ÑonvalesCount":150993,"DiedCount":4142}
+{"Name":"Èñïàíèÿ","Latitude":40.002804,"Longitude":-4.003104,"CasesCount":283849,"ÑonvalesCount":283849,"DiedCount":27118}
+{"Name":"Âåëèêîáğèòàíèÿ","Latitude":54.702354,"Longitude":-3.276575,"CasesCount":267240,"ÑonvalesCount":267240,"DiedCount":37460}
+{"Name":"Èòàëèÿ","Latitude":42.638428,"Longitude":12.674297,"CasesCount":231139,"ÑonvalesCount":231139,"DiedCount":33072}
+{"Name":"Ôğàíöèÿ","Latitude":46.603355,"Longitude":1.888333,"CasesCount":182913,"ÑonvalesCount":182913,"DiedCount":28596}
+{"Name":"Ãåğìàíèÿ","Latitude":51.08342,"Longitude":10.423447,"CasesCount":181895,"ÑonvalesCount":162800,"DiedCount":8533}
+{"Name":"Òóğöèÿ","Latitude":38.95976,"Longitude":34.924965,"CasesCount":159797,"ÑonvalesCount":159797,"DiedCount":4431}
+{"Name":"Èíäèÿ","Latitude":22.351114,"Longitude":78.66774,"CasesCount":158613,"ÑonvalesCount":67753,"DiedCount":4540}
+{"Name":"Èğàí","Latitude":32.94075,"Longitude":52.947132,"CasesCount":141591,"ÑonvalesCount":141591,"DiedCount":7564}
+{"Name":"Ïåğó","Latitude":-6.86997,"Longitude":-75.04585,"CasesCount":135905,"ÑonvalesCount":56169,"DiedCount":3983}
+{"Name":"Êàíàäà","Latitude":61.066692,"Longitude":-107.99171,"CasesCount":87519,"ÑonvalesCount":46164,"DiedCount":6765}
+{"Name":"Êèòàé","Latitude":35.000072,"Longitude":104.99992,"CasesCount":82995,"ÑonvalesCount":78288,"DiedCount":4634}
+{"Name":"×èëè","Latitude":-31.761335,"Longitude":-71.31877,"CasesCount":82289,"ÑonvalesCount":82289,"DiedCount":841}
+{"Name":"Ñàóäîâñêàÿ Àğàâèÿ","Latitude":25.624262,"Longitude":42.352833,"CasesCount":78541,"ÑonvalesCount":78541,"DiedCount":425}
+{"Name":"Ìåêñèêà","Latitude":22.500048,"Longitude":-100.00004,"CasesCount":78023,"ÑonvalesCount":54383,"DiedCount":8597}
+{"Name":"Ïàêèñòàí","Latitude":30.33084,"Longitude":71.2475,"CasesCount":61227,"ÑonvalesCount":20231,"DiedCount":1260}
+{"Name":"Áåëüãèÿ","Latitude":50.640736,"Longitude":4.66696,"CasesCount":57592,"ÑonvalesCount":57592,"DiedCount":9364}
+{"Name":"Êàòàğ","Latitude":25.333698,"Longitude":51.22953,"CasesCount":48947,"ÑonvalesCount":48947,"DiedCount":30}
+{"Name":"Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":45768,"ÑonvalesCount":45768,"DiedCount":5871}
+{"Name":"Áåëàğóñü","Latitude":53.42506,"Longitude":27.697136,"CasesCount":38956,"ÑonvalesCount":38956,"DiedCount":214}
+{"Name":"Áàíãëàäåø","Latitude":24.476877,"Longitude":90.29324,"CasesCount":38292,"ÑonvalesCount":38292,"DiedCount":544}
+{"Name":"İêâàäîğ","Latitude":-1.339767,"Longitude":-79.3667,"CasesCount":38103,"ÑonvalesCount":38103,"DiedCount":3275}
+{"Name":"Øâåöèÿ","Latitude":59.674973,"Longitude":14.520858,"CasesCount":35088,"ÑonvalesCount":35088,"DiedCount":4220}
+{"Name":"Ñèíãàïóğ","Latitude":1.357107,"Longitude":103.819496,"CasesCount":33249,"ÑonvalesCount":17276,"DiedCount":23}
+{"Name":"ÎÀİ","Latitude":24.00025,"Longitude":53.99948,"CasesCount":31969,"ÑonvalesCount":31969,"DiedCount":255}
+{"Name":"Ïîğòóãàëèÿ","Latitude":40.033264,"Longitude":-7.889626,"CasesCount":31292,"ÑonvalesCount":31292,"DiedCount":1356}
+{"Name":"Øâåéöàğèÿ","Latitude":46.79856,"Longitude":8.231974,"CasesCount":30776,"ÑonvalesCount":30776,"DiedCount":1917}
+{"Name":"ŞÀĞ","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":25937,"ÑonvalesCount":13451,"DiedCount":552}
+{"Name":"Èğëàíäèÿ","Latitude":52.865196,"Longitude":-7.97946,"CasesCount":24803,"ÑonvalesCount":24803,"DiedCount":1631}
+{"Name":"Êîëóìáèÿ","Latitude":2.893078,"Longitude":-73.78451,"CasesCount":24104,"ÑonvalesCount":6111,"DiedCount":803}
+{"Name":"Èíäîíåçèÿ","Latitude":-4.799336,"Longitude":114.5632,"CasesCount":23851,"ÑonvalesCount":23851,"DiedCount":1473}
+{"Name":"Êóâåéò","Latitude":29.273396,"Longitude":47.497948,"CasesCount":23267,"ÑonvalesCount":23267,"DiedCount":175}
+{"Name":"Ïîëüøà","Latitude":52.097717,"Longitude":19.025816,"CasesCount":22473,"ÑonvalesCount":22473,"DiedCount":1028}
+{"Name":"Ğóìûíèÿ","Latitude":45.985214,"Longitude":24.685923,"CasesCount":18594,"ÑonvalesCount":18594,"DiedCount":1229}
+{"Name":"Èçğàèëü","Latitude":30.876026,"Longitude":35.00152,"CasesCount":16809,"ÑonvalesCount":14602,"DiedCount":281}
+{"Name":"ßïîíèÿ","Latitude":36.574844,"Longitude":139.23941,"CasesCount":16651,"ÑonvalesCount":13973,"DiedCount":858}
+{"Name":"Àâñòğèÿ","Latitude":47.200035,"Longitude":13.199959,"CasesCount":16591,"ÑonvalesCount":16591,"DiedCount":645}
+{"Name":"Äîìèíèêàíñêàÿ ğåñïóáëèêà","Latitude":19.094175,"Longitude":-70.30127,"CasesCount":15723,"ÑonvalesCount":15723,"DiedCount":474}
+{"Name":"Ôèëèïïèíû","Latitude":12.750349,"Longitude":122.73121,"CasesCount":15588,"ÑonvalesCount":3598,"DiedCount":921}
+{"Name":"Àğãåíòèíà","Latitude":-35.003902,"Longitude":-65.26997,"CasesCount":13933,"ÑonvalesCount":4349,"DiedCount":500}
+{"Name":"Àôãàíèñòàí","Latitude":33.000088,"Longitude":64.99985,"CasesCount":13036,"ÑonvalesCount":1209,"DiedCount":235}
+{"Name":"Ïàíàìà","Latitude":8.309607,"Longitude":-81.306625,"CasesCount":11728,"ÑonvalesCount":7379,"DiedCount":315}
+{"Name":"Äàíèÿ","Latitude":55.67025,"Longitude":10.333328,"CasesCount":11480,"ÑonvalesCount":11480,"DiedCount":565}
+{"Name":"Şæíàÿ Êîğåÿ","Latitude":35.398502,"Longitude":127.93711,"CasesCount":11344,"ÑonvalesCount":10340,"DiedCount":269}
+{"Name":"Ñåğáèÿ","Latitude":44.15341,"Longitude":20.55144,"CasesCount":11275,"ÑonvalesCount":11275,"DiedCount":240}
+{"Name":"Áàõğåéí","Latitude":26.155125,"Longitude":50.534462,"CasesCount":9692,"ÑonvalesCount":9692,"DiedCount":15}
+{"Name":"Êàçàõñòàí","Latitude":47.228607,"Longitude":65.20932,"CasesCount":9576,"ÑonvalesCount":4768,"DiedCount":37}
+{"Name":"×åõèÿ","Latitude":49.8167,"Longitude":15.474954,"CasesCount":9103,"ÑonvalesCount":6377,"DiedCount":317}
+{"Name":"Àëæèğ","Latitude":28.000027,"Longitude":2.999982,"CasesCount":8857,"ÑonvalesCount":8857,"DiedCount":623}
+{"Name":"Íèãåğèÿ","Latitude":9.600036,"Longitude":7.999972,"CasesCount":8733,"ÑonvalesCount":2501,"DiedCount":254}
+{"Name":"Íîğâåãèÿ","Latitude":60.500023,"Longitude":9.099971,"CasesCount":8401,"ÑonvalesCount":7727,"DiedCount":235}
+{"Name":"Îìàí","Latitude":21.000029,"Longitude":57.00369,"CasesCount":8373,"ÑonvalesCount":8373,"DiedCount":40}
+{"Name":"Àğìåíèÿ","Latitude":40.769627,"Longitude":44.673664,"CasesCount":8216,"ÑonvalesCount":3287,"DiedCount":113}
+{"Name":"Áîëèâèÿ","Latitude":-17.05687,"Longitude":-64.99123,"CasesCount":7768,"ÑonvalesCount":689,"DiedCount":280}
+{"Name":"Ìàëàéçèÿ","Latitude":2.392376,"Longitude":112.84719,"CasesCount":7619,"ÑonvalesCount":7619,"DiedCount":115}
+{"Name":"Ìàğîêêî","Latitude":31.17282,"Longitude":-7.336604,"CasesCount":7601,"ÑonvalesCount":7601,"DiedCount":202}
+{"Name":"Ìîëäîâà","Latitude":47.286747,"Longitude":28.511024,"CasesCount":7537,"ÑonvalesCount":7537,"DiedCount":276}
+{"Name":"Ãàíà","Latitude":8.030028,"Longitude":-1.080027,"CasesCount":7303,"ÑonvalesCount":2412,"DiedCount":34}
+{"Name":"Àâñòğàëèÿ","Latitude":-24.77611,"Longitude":134.755,"CasesCount":7150,"ÑonvalesCount":6579,"DiedCount":103}
+{"Name":"Ôèíëÿíäèÿ","Latitude":63.246777,"Longitude":25.920916,"CasesCount":6692,"ÑonvalesCount":6692,"DiedCount":313}
+{"Name":"Êàìåğóí","Latitude":4.612552,"Longitude":13.153581,"CasesCount":5436,"ÑonvalesCount":5436,"DiedCount":175}
+{"Name":"Èğàê","Latitude":33.095577,"Longitude":44.174976,"CasesCount":5135,"ÑonvalesCount":5135,"DiedCount":175}
+{"Name":"Ãîíäóğàñ","Latitude":15.061069,"Longitude":-84.597855,"CasesCount":4640,"ÑonvalesCount":506,"DiedCount":194}
+{"Name":"Àçåğáàéäæàí","Latitude":40.163666,"Longitude":47.820744,"CasesCount":4568,"ÑonvalesCount":4568,"DiedCount":54}
+{"Name":"Ñóäàí","Latitude":15.79125,"Longitude":30.371424,"CasesCount":4346,"ÑonvalesCount":749,"DiedCount":195}
+{"Name":"Ãâàòåìàëà","Latitude":15.635609,"Longitude":-89.89881,"CasesCount":4145,"ÑonvalesCount":493,"DiedCount":68}
+{"Name":"Ëşêñåìáóğã","Latitude":49.81587,"Longitude":6.129675,"CasesCount":4001,"ÑonvalesCount":4001,"DiedCount":110}
+{"Name":"Âåíãğèÿ","Latitude":47.18176,"Longitude":19.506094,"CasesCount":3816,"ÑonvalesCount":1996,"DiedCount":509}
+{"Name":"Òàäæèêèñòàí","Latitude":38.628174,"Longitude":70.81565,"CasesCount":3424,"ÑonvalesCount":3424,"DiedCount":47}
+{"Name":"Óçáåêèñòàí","Latitude":41.32373,"Longitude":63.95281,"CasesCount":3396,"ÑonvalesCount":2668,"DiedCount":14}
 {"Name":"Ãâèíåÿ","Latitude":10.722623,"Longitude":-10.708359,"CasesCount":3275,"ÑonvalesCount":3275,"DiedCount":20}
-{"Name":"Ñåíåãàë","Latitude":14.475061,"Longitude":-14.452961,"CasesCount":3253,"ÑonvalesCount":1586,"DiedCount":38}
-{"Name":"Òàèëàíä","Latitude":14.897192,"Longitude":100.83273,"CasesCount":3054,"ÑonvalesCount":2931,"DiedCount":57}
-{"Name":"Ãğåöèÿ","Latitude":39.000042,"Longitude":21.999956,"CasesCount":2892,"ÑonvalesCount":2892,"DiedCount":173}
-{"Name":"Äæèáóòè","Latitude":11.856775,"Longitude":42.757786,"CasesCount":2697,"ÑonvalesCount":1185,"DiedCount":18}
-{"Name":"Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà Êîíãî","Latitude":-2.981434,"Longitude":23.822264,"CasesCount":2546,"ÑonvalesCount":365,"DiedCount":68}
-{"Name":"Êîò-ä'Èâóàğ","Latitude":7.989737,"Longitude":-5.567946,"CasesCount":2477,"ÑonvalesCount":2477,"DiedCount":30}
-{"Name":"Áîëãàğèÿ","Latitude":42.607395,"Longitude":25.485662,"CasesCount":2460,"ÑonvalesCount":912,"DiedCount":133}
-{"Name":"Áîñíèÿ è Ãåğöåãîâèíà","Latitude":44.30924,"Longitude":17.585966,"CasesCount":2435,"ÑonvalesCount":1744,"DiedCount":151}
+{"Name":"Ñåíåãàë","Latitude":14.475061,"Longitude":-14.452961,"CasesCount":3253,"ÑonvalesCount":3253,"DiedCount":38}
+{"Name":"Òàèëàíä","Latitude":14.897192,"Longitude":100.83273,"CasesCount":3065,"ÑonvalesCount":2945,"DiedCount":57}
+{"Name":"Ãğåöèÿ","Latitude":39.000042,"Longitude":21.999956,"CasesCount":2903,"ÑonvalesCount":2903,"DiedCount":173}
+{"Name":"Äæèáóòè","Latitude":11.856775,"Longitude":42.757786,"CasesCount":2697,"ÑonvalesCount":2697,"DiedCount":18}
+{"Name":"Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà Êîíãî","Latitude":-2.981434,"Longitude":23.822264,"CasesCount":2660,"ÑonvalesCount":381,"DiedCount":69}
+{"Name":"Êîò-ä'Èâóàğ","Latitude":7.989737,"Longitude":-5.567946,"CasesCount":2556,"ÑonvalesCount":2556,"DiedCount":31}
+{"Name":"Áîëãàğèÿ","Latitude":42.607395,"Longitude":25.485662,"CasesCount":2477,"ÑonvalesCount":965,"DiedCount":134}
+{"Name":"Áîñíèÿ è Ãåğöåãîâèíà","Latitude":44.30924,"Longitude":17.585966,"CasesCount":2435,"ÑonvalesCount":2435,"DiedCount":151}
+{"Name":"Ãàáîí","Latitude":-0.899969,"Longitude":11.68997,"CasesCount":2319,"ÑonvalesCount":631,"DiedCount":14}
 {"Name":"Õîğâàòèÿ","Latitude":45.564342,"Longitude":17.011894,"CasesCount":2244,"ÑonvalesCount":2244,"DiedCount":101}
-{"Name":"Ãàáîí","Latitude":-0.899969,"Longitude":11.68997,"CasesCount":2238,"ÑonvalesCount":593,"DiedCount":14}
-{"Name":"Ñàëüâàäîğ","Latitude":13.800038,"Longitude":-88.91407,"CasesCount":2109,"ÑonvalesCount":873,"DiedCount":37}
-{"Name":"Ìàêåäîíèÿ","Latitude":41.617123,"Longitude":21.716839,"CasesCount":2039,"ÑonvalesCount":1470,"DiedCount":119}
-{"Name":"Êóáà","Latitude":23.013134,"Longitude":-80.83288,"CasesCount":1974,"ÑonvalesCount":1724,"DiedCount":82}
-{"Name":"İñòîíèÿ","Latitude":58.752377,"Longitude":25.331907,"CasesCount":1840,"ÑonvalesCount":1561,"DiedCount":66}
-{"Name":"Èñëàíäèÿ","Latitude":64.984184,"Longitude":-18.105902,"CasesCount":1805,"ÑonvalesCount":1792,"DiedCount":10}
-{"Name":"Ñîìàëè","Latitude":8.367677,"Longitude":49.083416,"CasesCount":1711,"ÑonvalesCount":1711,"DiedCount":67}
-{"Name":"Ëèòâà","Latitude":55.35,"Longitude":23.75,"CasesCount":1647,"ÑonvalesCount":1184,"DiedCount":66}
-{"Name":"Ìàéîòòà","Latitude":-12.821211,"Longitude":45.129494,"CasesCount":1634,"ÑonvalesCount":1634,"DiedCount":20}
-{"Name":"Êûğãûçñòàí","Latitude":41.50893,"Longitude":74.72409,"CasesCount":1520,"ÑonvalesCount":1043,"DiedCount":16}
-{"Name":"Ñëîâàêèÿ","Latitude":48.741154,"Longitude":19.452866,"CasesCount":1515,"ÑonvalesCount":1327,"DiedCount":28}
-{"Name":"Íîâàÿ Çåëàíäèÿ","Latitude":-41.500084,"Longitude":172.83441,"CasesCount":1504,"ÑonvalesCount":1504,"DiedCount":21}
-{"Name":"Ñëîâåíèÿ","Latitude":45.813313,"Longitude":14.480837,"CasesCount":1471,"ÑonvalesCount":1354,"DiedCount":108}
-{"Name":"Êåíèÿ","Latitude":1.441968,"Longitude":38.431396,"CasesCount":1471,"ÑonvalesCount":408,"DiedCount":55}
-{"Name":"Ìàëüäèâñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":1457,"ÑonvalesCount":197,"DiedCount":5}
-{"Name":"Øğè-Ëàíêà","Latitude":7.878,"Longitude":80.70383,"CasesCount":1372,"ÑonvalesCount":732,"DiedCount":10}
-{"Name":"Âåíåñóıëà","Latitude":8.001871,"Longitude":-66.11093,"CasesCount":1211,"ÑonvalesCount":302,"DiedCount":11}
-{"Name":"Ãâèíåÿ-Áèñàó","Latitude":12.100035,"Longitude":-14.900021,"CasesCount":1178,"ÑonvalesCount":1178,"DiedCount":7}
-{"Name":"Ãàèòè","Latitude":19.139996,"Longitude":-72.35709,"CasesCount":1174,"ÑonvalesCount":22,"DiedCount":33}
-{"Name":"Ëèâàí","Latitude":33.875065,"Longitude":35.84341,"CasesCount":1161,"ÑonvalesCount":692,"DiedCount":26}
-{"Name":"Ìàëè","Latitude":16.370035,"Longitude":-2.290024,"CasesCount":1077,"ÑonvalesCount":1077,"DiedCount":70}
-{"Name":"Ãîíêîíã","Latitude":22.350628,"Longitude":114.18491,"CasesCount":1067,"ÑonvalesCount":1034,"DiedCount":4}
-{"Name":"Çàìáèÿ","Latitude":-14.518624,"Longitude":27.559916,"CasesCount":1057,"ÑonvalesCount":779,"DiedCount":7}
-{"Name":"Ëàòâèÿ","Latitude":56.86669,"Longitude":24.599972,"CasesCount":1057,"ÑonvalesCount":741,"DiedCount":23}
+{"Name":"Ñàëüâàäîğ","Latitude":13.800038,"Longitude":-88.91407,"CasesCount":2194,"ÑonvalesCount":1002,"DiedCount":39}
+{"Name":"Ìàêåäîíèÿ","Latitude":41.617123,"Longitude":21.716839,"CasesCount":2039,"ÑonvalesCount":2039,"DiedCount":119}
+{"Name":"Êóáà","Latitude":23.013134,"Longitude":-80.83288,"CasesCount":1974,"ÑonvalesCount":1974,"DiedCount":82}
+{"Name":"İñòîíèÿ","Latitude":58.752377,"Longitude":25.331907,"CasesCount":1851,"ÑonvalesCount":1574,"DiedCount":66}
+{"Name":"Èñëàíäèÿ","Latitude":64.984184,"Longitude":-18.105902,"CasesCount":1805,"ÑonvalesCount":1805,"DiedCount":10}
+{"Name":"Ñîìàëè","Latitude":8.367677,"Longitude":49.083416,"CasesCount":1731,"ÑonvalesCount":1731,"DiedCount":67}
+{"Name":"Ëèòâà","Latitude":55.35,"Longitude":23.75,"CasesCount":1656,"ÑonvalesCount":1193,"DiedCount":68}
+{"Name":"Ìàéîòòà","Latitude":-12.821211,"Longitude":45.129494,"CasesCount":1645,"ÑonvalesCount":1314,"DiedCount":20}
+{"Name":"Êûğãûçñòàí","Latitude":41.50893,"Longitude":74.72409,"CasesCount":1594,"ÑonvalesCount":1066,"DiedCount":16}
+{"Name":"Ñëîâàêèÿ","Latitude":48.741154,"Longitude":19.452866,"CasesCount":1520,"ÑonvalesCount":1332,"DiedCount":28}
+{"Name":"Íîâàÿ Çåëàíäèÿ","Latitude":-41.500084,"Longitude":172.83441,"CasesCount":1504,"ÑonvalesCount":1504,"DiedCount":22}
+{"Name":"Ñëîâåíèÿ","Latitude":45.813313,"Longitude":14.480837,"CasesCount":1471,"ÑonvalesCount":1471,"DiedCount":108}
+{"Name":"Êåíèÿ","Latitude":1.441968,"Longitude":38.431396,"CasesCount":1471,"ÑonvalesCount":1471,"DiedCount":55}
+{"Name":"Øğè-Ëàíêà","Latitude":7.878,"Longitude":80.70383,"CasesCount":1469,"ÑonvalesCount":1469,"DiedCount":10}
+{"Name":"Ìàëüäèâñêèå îñòğîâà","Latitude":3.252239,"Longitude":73.24717,"CasesCount":1457,"ÑonvalesCount":1457,"DiedCount":5}
+{"Name":"Ãàèòè","Latitude":19.139996,"Longitude":-72.35709,"CasesCount":1320,"ÑonvalesCount":22,"DiedCount":34}
+{"Name":"Âåíåñóıëà","Latitude":8.001871,"Longitude":-66.11093,"CasesCount":1245,"ÑonvalesCount":302,"DiedCount":11}
+{"Name":"Ãâèíåÿ-Áèñàó","Latitude":12.100035,"Longitude":-14.900021,"CasesCount":1195,"ÑonvalesCount":1195,"DiedCount":7}
+{"Name":"Ëèâàí","Latitude":33.875065,"Longitude":35.84341,"CasesCount":1161,"ÑonvalesCount":1161,"DiedCount":26}
+{"Name":"Ìàëè","Latitude":16.370035,"Longitude":-2.290024,"CasesCount":1116,"ÑonvalesCount":1116,"DiedCount":70}
+{"Name":"Ãîíêîíã","Latitude":22.350628,"Longitude":114.18491,"CasesCount":1067,"ÑonvalesCount":1067,"DiedCount":4}
+{"Name":"Ëàòâèÿ","Latitude":56.86669,"Longitude":24.599972,"CasesCount":1061,"ÑonvalesCount":741,"DiedCount":24}
+{"Name":"Çàìáèÿ","Latitude":-14.518624,"Longitude":27.559916,"CasesCount":1057,"ÑonvalesCount":1057,"DiedCount":7}
 {"Name":"Òóíèñ","Latitude":34.003536,"Longitude":9.360772,"CasesCount":1051,"ÑonvalesCount":1051,"DiedCount":48}
-{"Name":"Àëáàíèÿ","Latitude":41.000027,"Longitude":19.999962,"CasesCount":1050,"ÑonvalesCount":812,"DiedCount":33}
+{"Name":"Àëáàíèÿ","Latitude":41.000027,"Longitude":19.999962,"CasesCount":1050,"ÑonvalesCount":1050,"DiedCount":33}
 {"Name":"İêâàòîğèàëüíàÿ Ãâèíåÿ","Latitude":1.613172,"Longitude":10.517036,"CasesCount":1043,"ÑonvalesCount":1043,"DiedCount":12}
-{"Name":"Êîñòà-Ğèêà","Latitude":10.273563,"Longitude":-84.07391,"CasesCount":956,"ÑonvalesCount":956,"DiedCount":10}
-{"Name":"Íèãåğ","Latitude":17.73562,"Longitude":9.323843,"CasesCount":952,"ÑonvalesCount":796,"DiedCount":63}
+{"Name":"Şæíûé Ñóäàí","Latitude":7.869943,"Longitude":29.66679,"CasesCount":994,"ÑonvalesCount":994,"DiedCount":10}
+{"Name":"Êîñòà-Ğèêà","Latitude":10.273563,"Longitude":-84.07391,"CasesCount":984,"ÑonvalesCount":984,"DiedCount":10}
+{"Name":"Íèãåğ","Latitude":17.73562,"Longitude":9.323843,"CasesCount":952,"ÑonvalesCount":952,"DiedCount":63}
 {"Name":"Êèïğ","Latitude":35.169563,"Longitude":33.13964,"CasesCount":939,"ÑonvalesCount":939,"DiedCount":17}
-{"Name":"Íåïàë","Latitude":28.108318,"Longitude":84.09168,"CasesCount":886,"ÑonvalesCount":183,"DiedCount":4}
-{"Name":"Ïàğàãâàé","Latitude":-23.316593,"Longitude":-58.169346,"CasesCount":877,"ÑonvalesCount":877,"DiedCount":11}
-{"Name":"Áóğêèíà Ôàñî","Latitude":12.075308,"Longitude":-1.688031,"CasesCount":845,"ÑonvalesCount":672,"DiedCount":53}
-{"Name":"Şæíûé Ñóäàí","Latitude":7.869943,"Longitude":29.66679,"CasesCount":806,"ÑonvalesCount":806,"DiedCount":8}
-{"Name":"Óğóãâàé","Latitude":-32.875553,"Longitude":-56.020153,"CasesCount":789,"ÑonvalesCount":638,"DiedCount":22}
-{"Name":"Ñüåğğà-Ëåîíå","Latitude":8.640035,"Longitude":-11.840027,"CasesCount":782,"ÑonvalesCount":297,"DiedCount":45}
+{"Name":"Íåïàë","Latitude":28.108318,"Longitude":84.09168,"CasesCount":886,"ÑonvalesCount":886,"DiedCount":4}
+{"Name":"Ïàğàãâàé","Latitude":-23.316593,"Longitude":-58.169346,"CasesCount":884,"ÑonvalesCount":884,"DiedCount":11}
+{"Name":"Áóğêèíà Ôàñî","Latitude":12.075308,"Longitude":-1.688031,"CasesCount":845,"ÑonvalesCount":845,"DiedCount":53}
+{"Name":"Óğóãâàé","Latitude":-32.875553,"Longitude":-56.020153,"CasesCount":803,"ÑonvalesCount":650,"DiedCount":22}
+{"Name":"Ñüåğğà-Ëåîíå","Latitude":8.640035,"Longitude":-11.840027,"CasesCount":782,"ÑonvalesCount":782,"DiedCount":45}
 {"Name":"Àíäîğğà","Latitude":42.540718,"Longitude":1.573203,"CasesCount":763,"ÑonvalesCount":763,"DiedCount":51}
 {"Name":"Íèêàğàãóà","Latitude":12.372493,"Longitude":-84.87003,"CasesCount":759,"ÑonvalesCount":759,"DiedCount":35}
-{"Name":"Ãğóçèÿ","Latitude":42.32115,"Longitude":43.53074,"CasesCount":735,"ÑonvalesCount":557,"DiedCount":12}
-{"Name":"İôèîïèÿ","Latitude":10.21167,"Longitude":38.65212,"CasesCount":731,"ÑonvalesCount":181,"DiedCount":6}
-{"Name":"Èîğäàíèÿ","Latitude":31.166704,"Longitude":36.941628,"CasesCount":718,"ÑonvalesCount":718,"DiedCount":9}
-{"Name":"×àä","Latitude":15.613414,"Longitude":19.015617,"CasesCount":700,"ÑonvalesCount":700,"DiedCount":62}
-{"Name":"Öåíòğàëüíî-Àôğèêàíñêàÿ Ğåñïóáëèêà","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":671,"ÑonvalesCount":671,"DiedCount":1}
-{"Name":"Ñàí-Ìàğèíî","Latitude":43.94586,"Longitude":12.458306,"CasesCount":667,"ÑonvalesCount":294,"DiedCount":42}
-{"Name":"ßìàéêà","Latitude":18.185051,"Longitude":-77.39477,"CasesCount":564,"ÑonvalesCount":267,"DiedCount":9}
-{"Name":"Íîğìàíäñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":559,"ÑonvalesCount":559,"DiedCount":45}
+{"Name":"Ãğóçèÿ","Latitude":42.32115,"Longitude":43.53074,"CasesCount":738,"ÑonvalesCount":573,"DiedCount":12}
+{"Name":"İôèîïèÿ","Latitude":10.21167,"Longitude":38.65212,"CasesCount":731,"ÑonvalesCount":731,"DiedCount":6}
+{"Name":"Èîğäàíèÿ","Latitude":31.166704,"Longitude":36.941628,"CasesCount":720,"ÑonvalesCount":720,"DiedCount":9}
+{"Name":"×àä","Latitude":15.613414,"Longitude":19.015617,"CasesCount":715,"ÑonvalesCount":715,"DiedCount":64}
+{"Name":"Öåíòğàëüíî-Àôğèêàíñêàÿ Ğåñïóáëèêà","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":702,"ÑonvalesCount":702,"DiedCount":1}
+{"Name":"Ñàí-Ìàğèíî","Latitude":43.94586,"Longitude":12.458306,"CasesCount":667,"ÑonvalesCount":667,"DiedCount":42}
+{"Name":"Êîíãî","Latitude":-0.726433,"Longitude":15.641916,"CasesCount":571,"ÑonvalesCount":571,"DiedCount":19}
+{"Name":"ßìàéêà","Latitude":18.185051,"Longitude":-77.39477,"CasesCount":569,"ÑonvalesCount":279,"DiedCount":9}
+{"Name":"Íîğìàíäñêèå îñòğîâà","Latitude":40.43,"Longitude":74.04,"CasesCount":560,"ÑonvalesCount":560,"DiedCount":45}
 {"Name":"Òàíçàíèÿ","Latitude":-6.524712,"Longitude":35.787846,"CasesCount":509,"ÑonvalesCount":509,"DiedCount":21}
-{"Name":"Êîíãî","Latitude":-0.726433,"Longitude":15.641916,"CasesCount":487,"ÑonvalesCount":487,"DiedCount":16}
-{"Name":"Ğåşíüîí","Latitude":-21.132015,"Longitude":55.528255,"CasesCount":460,"ÑonvalesCount":411,"DiedCount":1}
+{"Name":"Ğåşíüîí","Latitude":-21.132015,"Longitude":55.528255,"CasesCount":460,"ÑonvalesCount":460,"DiedCount":1}
+{"Name":"Ñàí-Òîìå è Ïğèíñèïè","Latitude":0.88755,"Longitude":6.964872,"CasesCount":443,"ÑonvalesCount":443,"DiedCount":12}
 {"Name":"Òàéâàíü","Latitude":23.973936,"Longitude":120.98202,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":7}
-{"Name":"Ñàí-Òîìå è Ïğèíñèïè","Latitude":0.88755,"Longitude":6.964872,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":12}
-{"Name":"Ïàëåñòèíà","Latitude":31.64974,"Longitude":35.16207,"CasesCount":434,"ÑonvalesCount":365,"DiedCount":3}
-{"Name":"Òîãî","Latitude":8.780026,"Longitude":1.019976,"CasesCount":391,"ÑonvalesCount":177,"DiedCount":13}
+{"Name":"Ïàëåñòèíà","Latitude":31.64974,"Longitude":35.16207,"CasesCount":435,"ÑonvalesCount":365,"DiedCount":3}
+{"Name":"Ôğàíöóçñêàÿ Ãâèàíà","Latitude":4.044207,"Longitude":-53.01576,"CasesCount":406,"ÑonvalesCount":150,"DiedCount":1}
+{"Name":"Òîãî","Latitude":8.780026,"Longitude":1.019976,"CasesCount":395,"ÑonvalesCount":395,"DiedCount":13}
 {"Name":"Êàáî-Âåğäå","Latitude":16.000055,"Longitude":-24.008394,"CasesCount":390,"ÑonvalesCount":390,"DiedCount":4}
-{"Name":"Ôğàíöóçñêàÿ Ãâèàíà","Latitude":4.044207,"Longitude":-53.01576,"CasesCount":384,"ÑonvalesCount":146,"DiedCount":1}
-{"Name":"Ğóàíäà","Latitude":-1.964663,"Longitude":30.064436,"CasesCount":339,"ÑonvalesCount":339,"DiedCount":0}
+{"Name":"Ğóàíäà","Latitude":-1.964663,"Longitude":30.064436,"CasesCount":346,"ÑonvalesCount":346,"DiedCount":0}
 {"Name":"Îñòğîâ Ìıí","Latitude":54.1995,"Longitude":-4.543835,"CasesCount":336,"ÑonvalesCount":336,"DiedCount":24}
 {"Name":"Ìàâğèêèé","Latitude":-20.275946,"Longitude":57.57036,"CasesCount":334,"ÑonvalesCount":334,"DiedCount":10}
 {"Name":"Âüåòíàì","Latitude":13.290403,"Longitude":108.42651,"CasesCount":327,"ÑonvalesCount":327,"DiedCount":0}
 {"Name":"×åğíîãîğèÿ","Latitude":43.028557,"Longitude":19.291739,"CasesCount":324,"ÑonvalesCount":324,"DiedCount":9}
-{"Name":"Ìàâğèòàíèÿ","Latitude":20.254038,"Longitude":-9.239926,"CasesCount":268,"ÑonvalesCount":268,"DiedCount":13}
-{"Name":"Ëèáåğèÿ","Latitude":5.749972,"Longitude":-9.365852,"CasesCount":266,"ÑonvalesCount":266,"DiedCount":27}
-{"Name":"Éåìåí","Latitude":16.347124,"Longitude":47.891525,"CasesCount":249,"ÑonvalesCount":249,"DiedCount":49}
-{"Name":"Ìîçàìáèê","Latitude":-19.302233,"Longitude":34.914497,"CasesCount":227,"ÑonvalesCount":71,"DiedCount":1}
-{"Name":"Áåíèí","Latitude":9.529347,"Longitude":2.258441,"CasesCount":210,"ÑonvalesCount":134,"DiedCount":3}
+{"Name":"Ìàâğèòàíèÿ","Latitude":20.254038,"Longitude":-9.239926,"CasesCount":292,"ÑonvalesCount":15,"DiedCount":16}
+{"Name":"Óãàíäà","Latitude":1.533355,"Longitude":32.21666,"CasesCount":281,"ÑonvalesCount":69,"DiedCount":0}
+{"Name":"Éåìåí","Latitude":16.347124,"Longitude":47.891525,"CasesCount":256,"ÑonvalesCount":256,"DiedCount":53}
+{"Name":"Ìîçàìáèê","Latitude":-19.302233,"Longitude":34.914497,"CasesCount":227,"ÑonvalesCount":227,"DiedCount":1}
+{"Name":"Áåíèí","Latitude":9.529347,"Longitude":2.258441,"CasesCount":210,"ÑonvalesCount":210,"DiedCount":3}
 {"Name":"Ìüÿíìà","Latitude":17.175049,"Longitude":95.99996,"CasesCount":206,"ÑonvalesCount":206,"DiedCount":6}
 {"Name":"Ìàğòèíèêà","Latitude":14.652174,"Longitude":-61.008026,"CasesCount":197,"ÑonvalesCount":197,"DiedCount":14}
 {"Name":"Ôàğåğñêèå îñòğîâà","Latitude":62.044872,"Longitude":-7.032297,"CasesCount":187,"ÑonvalesCount":187,"DiedCount":0}
 {"Name":"Ãâàäåëóïà","Latitude":16.179182,"Longitude":-61.42811,"CasesCount":161,"ÑonvalesCount":161,"DiedCount":14}
-{"Name":"Ãèáğàëòàğ","Latitude":36.13166,"Longitude":-5.351725,"CasesCount":157,"ÑonvalesCount":147,"DiedCount":0}
-{"Name":"Ìîíãîëèÿ","Latitude":46.865623,"Longitude":105.4252,"CasesCount":148,"ÑonvalesCount":43,"DiedCount":0}
+{"Name":"Ìîíãîëèÿ","Latitude":46.865623,"Longitude":105.4252,"CasesCount":161,"ÑonvalesCount":43,"DiedCount":0}
+{"Name":"Ãèáğàëòàğ","Latitude":36.13166,"Longitude":-5.351725,"CasesCount":157,"ÑonvalesCount":157,"DiedCount":0}
 {"Name":"Áğóíåé","Latitude":4.413716,"Longitude":114.56539,"CasesCount":141,"ÑonvalesCount":141,"DiedCount":2}
-{"Name":"Áåğìóäû","Latitude":32.301823,"Longitude":-64.76036,"CasesCount":139,"ÑonvalesCount":91,"DiedCount":9}
-{"Name":"Ãàéàíà","Latitude":4.84171,"Longitude":-58.64169,"CasesCount":139,"ÑonvalesCount":62,"DiedCount":11}
-{"Name":"Êàéìàíîâû îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":137,"ÑonvalesCount":63,"DiedCount":1}
+{"Name":"Êàéìàíîâû îñòğîâà","Latitude":19.3222408,"Longitude":81.2315369,"CasesCount":140,"ÑonvalesCount":67,"DiedCount":1}
+{"Name":"Áåğìóäû","Latitude":32.301823,"Longitude":-64.76036,"CasesCount":139,"ÑonvalesCount":139,"DiedCount":9}
+{"Name":"Ãàéàíà","Latitude":4.84171,"Longitude":-58.64169,"CasesCount":139,"ÑonvalesCount":139,"DiedCount":11}
+{"Name":"Çèìáàáâå","Latitude":-18.455496,"Longitude":29.746841,"CasesCount":132,"ÑonvalesCount":132,"DiedCount":4}
 {"Name":"Êàìáîäæà","Latitude":13.506639,"Longitude":104.86942,"CasesCount":124,"ÑonvalesCount":124,"DiedCount":0}
 {"Name":"Ñèğèÿ","Latitude":34.640186,"Longitude":39.04941,"CasesCount":121,"ÑonvalesCount":121,"DiedCount":4}
 {"Name":"Òğèíèäàä è Òîáàãî","Latitude":10.867784,"Longitude":-60.982105,"CasesCount":116,"ÑonvalesCount":116,"DiedCount":8}
 {"Name":"Àğóáà","Latitude":12.543,"Longitude":-69.98042,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":3}
 {"Name":"Ìàëàâè","Latitude":-13.26872,"Longitude":33.930195,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":4}
 {"Name":"Áàãàìñêèå îñòğîâà","Latitude":24.773655,"Longitude":-78.00005,"CasesCount":100,"ÑonvalesCount":100,"DiedCount":11}
+{"Name":"Ëèâèÿ","Latitude":26.823446,"Longitude":18.123672,"CasesCount":99,"ÑonvalesCount":40,"DiedCount":4}
 {"Name":"Ìîíàêî","Latitude":43.731197,"Longitude":7.41964,"CasesCount":98,"ÑonvalesCount":98,"DiedCount":4}
 {"Name":"Áàğáàäîñ","Latitude":13.150033,"Longitude":-59.52503,"CasesCount":92,"ÑonvalesCount":92,"DiedCount":7}
-{"Name":"Êîìîğñêèå îñòğîâà","Latitude":-12.204518,"Longitude":44.283295,"CasesCount":87,"ÑonvalesCount":87,"DiedCount":1}
+{"Name":"Êîìîğñêèå îñòğîâà","Latitude":-12.204518,"Longitude":44.283295,"CasesCount":87,"ÑonvalesCount":87,"DiedCount":2}
 {"Name":"Ëèõòåíøòåéí","Latitude":47.15934,"Longitude":9.546939,"CasesCount":82,"ÑonvalesCount":82,"DiedCount":1}
 {"Name":"Ñèíò-Ìàğòåí","Latitude":17.9345,"Longitude":-63.153934,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":15}
-{"Name":"Ëèâèÿ","Latitude":26.823446,"Longitude":18.123672,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":3}
-{"Name":"Àíãîëà","Latitude":-11.877577,"Longitude":17.569124,"CasesCount":71,"ÑonvalesCount":18,"DiedCount":4}
+{"Name":"Àíãîëà","Latitude":-11.877577,"Longitude":17.569124,"CasesCount":71,"ÑonvalesCount":71,"DiedCount":4}
 {"Name":"Ôğàíöóçñêàÿ Ïîëèíåçèÿ","Latitude":-16.034426,"Longitude":-146.04909,"CasesCount":60,"ÑonvalesCount":60,"DiedCount":0}
-{"Name":"Çèìáàáâå","Latitude":-18.455496,"Longitude":29.746841,"CasesCount":56,"ÑonvalesCount":56,"DiedCount":4}
 {"Name":"Ìàêàî","Latitude":22.191952,"Longitude":113.538124,"CasesCount":45,"ÑonvalesCount":45,"DiedCount":0}
 {"Name":"Áóğóíäè","Latitude":-3.363436,"Longitude":29.887056,"CasesCount":42,"ÑonvalesCount":42,"DiedCount":1}
 {"Name":"Ñåí-Ìàğòåí","Latitude":18.081408,"Longitude":-63.046715,"CasesCount":40,"ÑonvalesCount":40,"DiedCount":3}
 {"Name":"İğèòğåÿ","Latitude":15.950032,"Longitude":37.999966,"CasesCount":39,"ÑonvalesCount":39,"DiedCount":0}
 {"Name":"Áîòñâàíà","Latitude":-23.168179,"Longitude":24.592875,"CasesCount":35,"ÑonvalesCount":35,"DiedCount":1}
-{"Name":"Áóòàí","Latitude":27.549511,"Longitude":90.511925,"CasesCount":28,"ÑonvalesCount":6,"DiedCount":0}
+{"Name":"Áóòàí","Latitude":27.549511,"Longitude":90.511925,"CasesCount":28,"ÑonvalesCount":28,"DiedCount":0}
 {"Name":"Àíòèãóà è Áàğáóäà","Latitude":17.079128,"Longitude":-61.82225,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":3}
 {"Name":"Ãàìáèÿ","Latitude":13.470062,"Longitude":-15.490046,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":1}
 {"Name":"Âîñòî÷íûé Òèìîğ","Latitude":-8.515198,"Longitude":125.83758,"CasesCount":24,"ÑonvalesCount":24,"DiedCount":0}
 {"Name":"Ãğåíàäà","Latitude":12.136037,"Longitude":-61.690403,"CasesCount":23,"ÑonvalesCount":23,"DiedCount":0}
-{"Name":"Íàìèáèÿ","Latitude":-23.23355,"Longitude":17.32311,"CasesCount":22,"ÑonvalesCount":14,"DiedCount":0}
+{"Name":"Íàìèáèÿ","Latitude":-23.23355,"Longitude":17.32311,"CasesCount":22,"ÑonvalesCount":22,"DiedCount":0}
 {"Name":"Ëàîñ","Latitude":20.01711,"Longitude":103.37825,"CasesCount":19,"ÑonvalesCount":19,"DiedCount":0}
 {"Name":"Íîâàÿ Êàëåäîíèÿ","Latitude":-20.454288,"Longitude":164.55661,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Ñâÿòàÿ Ëşñèÿ","Latitude":55.485783,"Longitude":36.895695,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
+{"Name":"Ñâÿòàÿ Ëşñèÿ","Latitude":13.825049,"Longitude":-60.975037,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
 {"Name":"Áåëèç","Latitude":16.82598,"Longitude":-88.76009,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":2}
 {"Name":"Ôèäæè","Latitude":-18.123968,"Longitude":179.01227,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
 {"Name":"Êşğàñàî","Latitude":12.1845,"Longitude":-68.96409,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":1}
@@ -191,388 +191,13 @@
 {"Name":"Äîìèíèêà","Latitude":15.411314,"Longitude":-61.36536,"CasesCount":16,"ÑonvalesCount":16,"DiedCount":0}
 {"Name":"Ñåíò Êèòñ è Íåâèñ","Latitude":17.346228,"Longitude":-62.768726,"CasesCount":15,"ÑonvalesCount":15,"DiedCount":0}
 {"Name":"Ôîëêëåíäñêèå îñòğîâà","Latitude":-51.96664,"Longitude":-59.550037,"CasesCount":13,"ÑonvalesCount":13,"DiedCount":0}
-{"Name":"Ãğåíëàíäèÿ","Latitude":77.61923,"Longitude":-42.812595,"CasesCount":12,"ÑonvalesCount":12,"DiedCount":0}
-{"Name":"Ñóğèíàì","Latitude":4.141303,"Longitude":-56.077118,"CasesCount":11,"ÑonvalesCount":11,"DiedCount":1}
+{"Name":"Ãğåíëàíäèÿ","Latitude":77.61923,"Longitude":-42.812595,"CasesCount":13,"ÑonvalesCount":13,"DiedCount":0}
+{"Name":"Âàòèêàí","Latitude":41.903492,"Longitude":12.452835,"CasesCount":12,"ÑonvalesCount":12,"DiedCount":0}
 {"Name":"Çàïàäíàÿ Ñàõàğà","Latitude":24.179731,"Longitude":-13.766785,"CasesCount":9,"ÑonvalesCount":9,"DiedCount":1}
 {"Name":"Ïàïóà Íîâàÿ Ãâèíåÿ","Latitude":-5.681607,"Longitude":144.2489,"CasesCount":8,"ÑonvalesCount":8,"DiedCount":0}
 {"Name":"Áğèòàíñêèå Âèğãèíñêèå îñòğîâà","Latitude":18.40244,"Longitude":-64.56616,"CasesCount":8,"ÑonvalesCount":8,"DiedCount":1}
 {"Name":"Êàğèáñêèå Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":6,"ÑonvalesCount":6,"DiedCount":0}
 {"Name":"Ñåí-Áàğòåëåìè","Latitude":17.896257,"Longitude":-62.829926,"CasesCount":6,"ÑonvalesCount":6,"DiedCount":0}
 {"Name":"Ñåí-Ïüåğ è Ìèêåëîí","Latitude":46.837456,"Longitude":-56.212055,"CasesCount":1,"ÑonvalesCount":1,"DiedCount":0}
-{"Name":"Óêğàèíà","Latitude":32,"Longitude":49,"CasesCount":39.78373,"ÑonvalesCount":480321,"DiedCount":100765}{"Name":"ÑØÀ","Latitude":17.789186,"Longitude":-64.70805,"CasesCount":1730100,"ÑonvalesCount":480321,"DiedCount":100765}
-{"Name":"Áğàçèëèÿ","Latitude":-10.333333,"Longitude":-53.2,"CasesCount":394507,"ÑonvalesCount":158593,"DiedCount":24593}
-{"Name":"Ğîññèÿ","Latitude":64.68632,"Longitude":97.74531,"CasesCount":370680,"ÑonvalesCount":142208,"DiedCount":3968}
-{"Name":"Èñïàíèÿ","Latitude":40.002804,"Longitude":-4.003104,"CasesCount":283339,"ÑonvalesCount":283339,"DiedCount":27117}
-{"Name":"Âåëèêîáğèòàíèÿ","Latitude":54.702354,"Longitude":-3.276575,"CasesCount":267240,"ÑonvalesCount":1559,"DiedCount":37460}
-{"Name":"Èòàëèÿ","Latitude":42.638428,"Longitude":12.674297,"CasesCount":230555,"ÑonvalesCount":230555,"DiedCount":32955}
-{"Name":"Ôğàíöèÿ","Latitude":46.603355,"Longitude":1.888333,"CasesCount":182722,"ÑonvalesCount":182722,"DiedCount":28530}
-{"Name":"Ãåğìàíèÿ","Latitude":51.08342,"Longitude":10.423447,"CasesCount":181530,"ÑonvalesCount":162800,"DiedCount":8498}
-{"Name":"Òóğöèÿ","Latitude":38.95976,"Longitude":34.924965,"CasesCount":158762,"ÑonvalesCount":158762,"DiedCount":4397}
-{"Name":"Èíäèÿ","Latitude":22.351114,"Longitude":78.66774,"CasesCount":154820,"ÑonvalesCount":65944,"DiedCount":4406}
-{"Name":"Èğàí","Latitude":32.94075,"Longitude":52.947132,"CasesCount":141591,"ÑonvalesCount":111176,"DiedCount":7564}
-{"Name":"Ïåğó","Latitude":-6.86997,"Longitude":-75.04585,"CasesCount":129751,"ÑonvalesCount":52906,"DiedCount":3788}
-{"Name":"Êàíàäà","Latitude":61.066692,"Longitude":-107.99171,"CasesCount":86647,"ÑonvalesCount":45339,"DiedCount":6639}
-{"Name":"Êèòàé","Latitude":35.000072,"Longitude":104.99992,"CasesCount":82993,"ÑonvalesCount":78280,"DiedCount":4634}
-{"Name":"Ñàóäîâñêàÿ Àğàâèÿ","Latitude":25.624262,"Longitude":42.352833,"CasesCount":78541,"ÑonvalesCount":51022,"DiedCount":425}
-{"Name":"×èëè","Latitude":-31.761335,"Longitude":-71.31877,"CasesCount":77961,"ÑonvalesCount":77961,"DiedCount":806}
-{"Name":"Ìåêñèêà","Latitude":22.500048,"Longitude":-100.00004,"CasesCount":74560,"ÑonvalesCount":52219,"DiedCount":8134}
-{"Name":"Ïàêèñòàí","Latitude":30.33084,"Longitude":71.2475,"CasesCount":59151,"ÑonvalesCount":19142,"DiedCount":1225}
-{"Name":"Áåëüãèÿ","Latitude":50.640736,"Longitude":4.66696,"CasesCount":57592,"ÑonvalesCount":15465,"DiedCount":9364}
-{"Name":"Êàòàğ","Latitude":25.333698,"Longitude":51.22953,"CasesCount":48947,"ÑonvalesCount":13283,"DiedCount":30}
-{"Name":"Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":45768,"ÑonvalesCount":188,"DiedCount":5871}
-{"Name":"Áåëàğóñü","Latitude":53.42506,"Longitude":27.697136,"CasesCount":38956,"ÑonvalesCount":15923,"DiedCount":214}
-{"Name":"Áàíãëàäåø","Latitude":24.476877,"Longitude":90.29324,"CasesCount":38292,"ÑonvalesCount":7925,"DiedCount":544}
-{"Name":"İêâàäîğ","Latitude":-1.339767,"Longitude":-79.3667,"CasesCount":37355,"ÑonvalesCount":37355,"DiedCount":3203}
-{"Name":"Øâåöèÿ","Latitude":59.674973,"Longitude":14.520858,"CasesCount":35088,"ÑonvalesCount":4971,"DiedCount":4220}
-{"Name":"Ñèíãàïóğ","Latitude":1.357107,"Longitude":103.819496,"CasesCount":32876,"ÑonvalesCount":17276,"DiedCount":23}
-{"Name":"Ïîğòóãàëèÿ","Latitude":40.033264,"Longitude":-7.889626,"CasesCount":31292,"ÑonvalesCount":18349,"DiedCount":1356}
-{"Name":"ÎÀİ","Latitude":24.00025,"Longitude":53.99948,"CasesCount":31086,"ÑonvalesCount":31086,"DiedCount":253}
-{"Name":"Øâåéöàğèÿ","Latitude":46.79856,"Longitude":8.231974,"CasesCount":30776,"ÑonvalesCount":28200,"DiedCount":1917}
-{"Name":"Èğëàíäèÿ","Latitude":52.865196,"Longitude":-7.97946,"CasesCount":24735,"ÑonvalesCount":24735,"DiedCount":1615}
-{"Name":"ŞÀĞ","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":24264,"ÑonvalesCount":24264,"DiedCount":524}
-{"Name":"Èíäîíåçèÿ","Latitude":-4.799336,"Longitude":114.5632,"CasesCount":23851,"ÑonvalesCount":6057,"DiedCount":1473}
-{"Name":"Êóâåéò","Latitude":29.273396,"Longitude":47.497948,"CasesCount":23267,"ÑonvalesCount":7946,"DiedCount":175}
-{"Name":"Êîëóìáèÿ","Latitude":2.893078,"Longitude":-73.78451,"CasesCount":23003,"ÑonvalesCount":5511,"DiedCount":776}
-{"Name":"Ïîëüøà","Latitude":52.097717,"Longitude":19.025816,"CasesCount":22303,"ÑonvalesCount":10330,"DiedCount":1025}
-{"Name":"Ğóìûíèÿ","Latitude":45.985214,"Longitude":24.685923,"CasesCount":18594,"ÑonvalesCount":12162,"DiedCount":1223}
-{"Name":"Èçğàèëü","Latitude":30.876026,"Longitude":35.00152,"CasesCount":16771,"ÑonvalesCount":14486,"DiedCount":281}
-{"Name":"ßïîíèÿ","Latitude":36.574844,"Longitude":139.23941,"CasesCount":16623,"ÑonvalesCount":13810,"DiedCount":846}
-{"Name":"Àâñòğèÿ","Latitude":47.200035,"Longitude":13.199959,"CasesCount":16591,"ÑonvalesCount":15228,"DiedCount":645}
-{"Name":"Äîìèíèêàíñêàÿ ğåñïóáëèêà","Latitude":19.094175,"Longitude":-70.30127,"CasesCount":15264,"ÑonvalesCount":15264,"DiedCount":468}
-{"Name":"Ôèëèïïèíû","Latitude":12.750349,"Longitude":122.73121,"CasesCount":15049,"ÑonvalesCount":3506,"DiedCount":904}
-{"Name":"Àğãåíòèíà","Latitude":-35.003902,"Longitude":-65.26997,"CasesCount":13228,"ÑonvalesCount":4349,"DiedCount":492}
-{"Name":"Àôãàíèñòàí","Latitude":33.000088,"Longitude":64.99985,"CasesCount":12456,"ÑonvalesCount":1138,"DiedCount":227}
-{"Name":"Äàíèÿ","Latitude":55.67025,"Longitude":10.333328,"CasesCount":11480,"ÑonvalesCount":10106,"DiedCount":565}
-{"Name":"Ïàíàìà","Latitude":8.309607,"Longitude":-81.306625,"CasesCount":11447,"ÑonvalesCount":6379,"DiedCount":313}
-{"Name":"Ñåğáèÿ","Latitude":44.15341,"Longitude":20.55144,"CasesCount":11275,"ÑonvalesCount":6277,"DiedCount":240}
-{"Name":"Şæíàÿ Êîğåÿ","Latitude":35.398502,"Longitude":127.93711,"CasesCount":11265,"ÑonvalesCount":10295,"DiedCount":269}
-{"Name":"Áàõğåéí","Latitude":26.155125,"Longitude":50.534462,"CasesCount":9633,"ÑonvalesCount":5142,"DiedCount":15}
-{"Name":"Êàçàõñòàí","Latitude":47.228607,"Longitude":65.20932,"CasesCount":9304,"ÑonvalesCount":4746,"DiedCount":37}
-{"Name":"×åõèÿ","Latitude":49.8167,"Longitude":15.474954,"CasesCount":9052,"ÑonvalesCount":6279,"DiedCount":317}
-{"Name":"Àëæèğ","Latitude":28.000027,"Longitude":2.999982,"CasesCount":8697,"ÑonvalesCount":8697,"DiedCount":617}
-{"Name":"Íîğâåãèÿ","Latitude":60.500023,"Longitude":9.099971,"CasesCount":8391,"ÑonvalesCount":7727,"DiedCount":235}
-{"Name":"Îìàí","Latitude":21.000029,"Longitude":57.00369,"CasesCount":8373,"ÑonvalesCount":2177,"DiedCount":38}
-{"Name":"Íèãåğèÿ","Latitude":9.600036,"Longitude":7.999972,"CasesCount":8344,"ÑonvalesCount":2385,"DiedCount":249}
-{"Name":"Àğìåíèÿ","Latitude":40.769627,"Longitude":44.673664,"CasesCount":7774,"ÑonvalesCount":3255,"DiedCount":98}
-{"Name":"Ìàëàéçèÿ","Latitude":2.392376,"Longitude":112.84719,"CasesCount":7619,"ÑonvalesCount":6083,"DiedCount":115}
-{"Name":"Ìàğîêêî","Latitude":31.17282,"Longitude":-7.336604,"CasesCount":7584,"ÑonvalesCount":4969,"DiedCount":202}
-{"Name":"Ìîëäîâà","Latitude":47.286747,"Longitude":28.511024,"CasesCount":7537,"ÑonvalesCount":3884,"DiedCount":274}
-{"Name":"Àâñòğàëèÿ","Latitude":-24.77611,"Longitude":134.755,"CasesCount":7139,"ÑonvalesCount":6566,"DiedCount":103}
-{"Name":"Áîëèâèÿ","Latitude":-17.05687,"Longitude":-64.99123,"CasesCount":7136,"ÑonvalesCount":677,"DiedCount":274}
-{"Name":"Ãàíà","Latitude":8.030028,"Longitude":-1.080027,"CasesCount":7117,"ÑonvalesCount":2317,"DiedCount":34}
-{"Name":"Ôèíëÿíäèÿ","Latitude":63.246777,"Longitude":25.920916,"CasesCount":6692,"ÑonvalesCount":5100,"DiedCount":313}
-{"Name":"Êàìåğóí","Latitude":4.612552,"Longitude":13.153581,"CasesCount":5436,"ÑonvalesCount":1996,"DiedCount":175}
-{"Name":"Èğàê","Latitude":33.095577,"Longitude":44.174976,"CasesCount":4848,"ÑonvalesCount":4848,"DiedCount":169}
-{"Name":"Àçåğáàéäæàí","Latitude":40.163666,"Longitude":47.820744,"CasesCount":4568,"ÑonvalesCount":2897,"DiedCount":54}
-{"Name":"Ãîíäóğàñ","Latitude":15.061069,"Longitude":-84.597855,"CasesCount":4401,"ÑonvalesCount":493,"DiedCount":188}
-{"Name":"Ñóäàí","Latitude":15.79125,"Longitude":30.371424,"CasesCount":4146,"ÑonvalesCount":588,"DiedCount":184}
-{"Name":"Ëşêñåìáóğã","Latitude":49.81587,"Longitude":6.129675,"CasesCount":3995,"ÑonvalesCount":3995,"DiedCount":110}
-{"Name":"Ãâàòåìàëà","Latitude":15.635609,"Longitude":-89.89881,"CasesCount":3954,"ÑonvalesCount":289,"DiedCount":63}
-{"Name":"Âåíãğèÿ","Latitude":47.18176,"Longitude":19.506094,"CasesCount":3793,"ÑonvalesCount":1856,"DiedCount":505}
-{"Name":"Òàäæèêèñòàí","Latitude":38.628174,"Longitude":70.81565,"CasesCount":3424,"ÑonvalesCount":1575,"DiedCount":47}
-{"Name":"Óçáåêèñòàí","Latitude":41.32373,"Longitude":63.95281,"CasesCount":3355,"ÑonvalesCount":2668,"DiedCount":14}
-{"Name":"Ãâèíåÿ","Latitude":10.722623,"Longitude":-10.708359,"CasesCount":3275,"ÑonvalesCount":3275,"DiedCount":20}
-{"Name":"Ñåíåãàë","Latitude":14.475061,"Longitude":-14.452961,"CasesCount":3253,"ÑonvalesCount":1586,"DiedCount":38}
-{"Name":"Òàèëàíä","Latitude":14.897192,"Longitude":100.83273,"CasesCount":3054,"ÑonvalesCount":2931,"DiedCount":57}
-{"Name":"Ãğåöèÿ","Latitude":39.000042,"Longitude":21.999956,"CasesCount":2892,"ÑonvalesCount":2892,"DiedCount":173}
-{"Name":"Äæèáóòè","Latitude":11.856775,"Longitude":42.757786,"CasesCount":2697,"ÑonvalesCount":1185,"DiedCount":18}
-{"Name":"Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà Êîíãî","Latitude":-2.981434,"Longitude":23.822264,"CasesCount":2546,"ÑonvalesCount":365,"DiedCount":68}
-{"Name":"Êîò-ä'Èâóàğ","Latitude":7.989737,"Longitude":-5.567946,"CasesCount":2477,"ÑonvalesCount":2477,"DiedCount":30}
-{"Name":"Áîëãàğèÿ","Latitude":42.607395,"Longitude":25.485662,"CasesCount":2460,"ÑonvalesCount":912,"DiedCount":133}
-{"Name":"Áîñíèÿ è Ãåğöåãîâèíà","Latitude":44.30924,"Longitude":17.585966,"CasesCount":2435,"ÑonvalesCount":1744,"DiedCount":151}
-{"Name":"Õîğâàòèÿ","Latitude":45.564342,"Longitude":17.011894,"CasesCount":2244,"ÑonvalesCount":2244,"DiedCount":101}
-{"Name":"Ãàáîí","Latitude":-0.899969,"Longitude":11.68997,"CasesCount":2238,"ÑonvalesCount":593,"DiedCount":14}
-{"Name":"Ñàëüâàäîğ","Latitude":13.800038,"Longitude":-88.91407,"CasesCount":2109,"ÑonvalesCount":873,"DiedCount":37}
-{"Name":"Ìàêåäîíèÿ","Latitude":41.617123,"Longitude":21.716839,"CasesCount":2039,"ÑonvalesCount":1470,"DiedCount":119}
-{"Name":"Êóáà","Latitude":23.013134,"Longitude":-80.83288,"CasesCount":1974,"ÑonvalesCount":1724,"DiedCount":82}
-{"Name":"İñòîíèÿ","Latitude":58.752377,"Longitude":25.331907,"CasesCount":1840,"ÑonvalesCount":1561,"DiedCount":66}
-{"Name":"Èñëàíäèÿ","Latitude":64.984184,"Longitude":-18.105902,"CasesCount":1805,"ÑonvalesCount":1792,"DiedCount":10}
-{"Name":"Ñîìàëè","Latitude":8.367677,"Longitude":49.083416,"CasesCount":1711,"ÑonvalesCount":1711,"DiedCount":67}
-{"Name":"Ëèòâà","Latitude":55.35,"Longitude":23.75,"CasesCount":1647,"ÑonvalesCount":1184,"DiedCount":66}
-{"Name":"Ìàéîòòà","Latitude":-12.821211,"Longitude":45.129494,"CasesCount":1634,"ÑonvalesCount":1634,"DiedCount":20}
-{"Name":"Êûğãûçñòàí","Latitude":41.50893,"Longitude":74.72409,"CasesCount":1520,"ÑonvalesCount":1043,"DiedCount":16}
-{"Name":"Ñëîâàêèÿ","Latitude":48.741154,"Longitude":19.452866,"CasesCount":1515,"ÑonvalesCount":1327,"DiedCount":28}
-{"Name":"Íîâàÿ Çåëàíäèÿ","Latitude":-41.500084,"Longitude":172.83441,"CasesCount":1504,"ÑonvalesCount":1504,"DiedCount":21}
-{"Name":"Ñëîâåíèÿ","Latitude":45.813313,"Longitude":14.480837,"CasesCount":1471,"ÑonvalesCount":1354,"DiedCount":108}
-{"Name":"Êåíèÿ","Latitude":1.441968,"Longitude":38.431396,"CasesCount":1471,"ÑonvalesCount":408,"DiedCount":55}
-{"Name":"Ìàëüäèâñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":1457,"ÑonvalesCount":197,"DiedCount":5}
-{"Name":"Øğè-Ëàíêà","Latitude":7.878,"Longitude":80.70383,"CasesCount":1372,"ÑonvalesCount":732,"DiedCount":10}
-{"Name":"Âåíåñóıëà","Latitude":8.001871,"Longitude":-66.11093,"CasesCount":1211,"ÑonvalesCount":302,"DiedCount":11}
-{"Name":"Ãâèíåÿ-Áèñàó","Latitude":12.100035,"Longitude":-14.900021,"CasesCount":1178,"ÑonvalesCount":1178,"DiedCount":7}
-{"Name":"Ãàèòè","Latitude":19.139996,"Longitude":-72.35709,"CasesCount":1174,"ÑonvalesCount":22,"DiedCount":33}
-{"Name":"Ëèâàí","Latitude":33.875065,"Longitude":35.84341,"CasesCount":1161,"ÑonvalesCount":692,"DiedCount":26}
-{"Name":"Ìàëè","Latitude":16.370035,"Longitude":-2.290024,"CasesCount":1077,"ÑonvalesCount":1077,"DiedCount":70}
-{"Name":"Ãîíêîíã","Latitude":22.350628,"Longitude":114.18491,"CasesCount":1067,"ÑonvalesCount":1034,"DiedCount":4}
-{"Name":"Çàìáèÿ","Latitude":-14.518624,"Longitude":27.559916,"CasesCount":1057,"ÑonvalesCount":779,"DiedCount":7}
-{"Name":"Ëàòâèÿ","Latitude":56.86669,"Longitude":24.599972,"CasesCount":1057,"ÑonvalesCount":741,"DiedCount":23}
-{"Name":"Òóíèñ","Latitude":34.003536,"Longitude":9.360772,"CasesCount":1051,"ÑonvalesCount":1051,"DiedCount":48}
-{"Name":"Àëáàíèÿ","Latitude":41.000027,"Longitude":19.999962,"CasesCount":1050,"ÑonvalesCount":812,"DiedCount":33}
-{"Name":"İêâàòîğèàëüíàÿ Ãâèíåÿ","Latitude":1.613172,"Longitude":10.517036,"CasesCount":1043,"ÑonvalesCount":1043,"DiedCount":12}
-{"Name":"Êîñòà-Ğèêà","Latitude":10.273563,"Longitude":-84.07391,"CasesCount":956,"ÑonvalesCount":956,"DiedCount":10}
-{"Name":"Íèãåğ","Latitude":17.73562,"Longitude":9.323843,"CasesCount":952,"ÑonvalesCount":796,"DiedCount":63}
-{"Name":"Êèïğ","Latitude":35.169563,"Longitude":33.13964,"CasesCount":939,"ÑonvalesCount":939,"DiedCount":17}
-{"Name":"Íåïàë","Latitude":28.108318,"Longitude":84.09168,"CasesCount":886,"ÑonvalesCount":183,"DiedCount":4}
-{"Name":"Ïàğàãâàé","Latitude":-23.316593,"Longitude":-58.169346,"CasesCount":877,"ÑonvalesCount":877,"DiedCount":11}
-{"Name":"Áóğêèíà Ôàñî","Latitude":12.075308,"Longitude":-1.688031,"CasesCount":845,"ÑonvalesCount":672,"DiedCount":53}
-{"Name":"Şæíûé Ñóäàí","Latitude":7.869943,"Longitude":29.66679,"CasesCount":806,"ÑonvalesCount":806,"DiedCount":8}
-{"Name":"Óğóãâàé","Latitude":-32.875553,"Longitude":-56.020153,"CasesCount":789,"ÑonvalesCount":638,"DiedCount":22}
-{"Name":"Ñüåğğà-Ëåîíå","Latitude":8.640035,"Longitude":-11.840027,"CasesCount":782,"ÑonvalesCount":297,"DiedCount":45}
-{"Name":"Àíäîğğà","Latitude":42.540718,"Longitude":1.573203,"CasesCount":763,"ÑonvalesCount":763,"DiedCount":51}
-{"Name":"Íèêàğàãóà","Latitude":12.372493,"Longitude":-84.87003,"CasesCount":759,"ÑonvalesCount":759,"DiedCount":35}
-{"Name":"Ãğóçèÿ","Latitude":42.32115,"Longitude":43.53074,"CasesCount":735,"ÑonvalesCount":557,"DiedCount":12}
-{"Name":"İôèîïèÿ","Latitude":10.21167,"Longitude":38.65212,"CasesCount":731,"ÑonvalesCount":181,"DiedCount":6}
-{"Name":"Èîğäàíèÿ","Latitude":31.166704,"Longitude":36.941628,"CasesCount":718,"ÑonvalesCount":718,"DiedCount":9}
-{"Name":"×àä","Latitude":15.613414,"Longitude":19.015617,"CasesCount":700,"ÑonvalesCount":700,"DiedCount":62}
-{"Name":"Öåíòğàëüíî-Àôğèêàíñêàÿ Ğåñïóáëèêà","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":671,"ÑonvalesCount":671,"DiedCount":1}
-{"Name":"Ñàí-Ìàğèíî","Latitude":43.94586,"Longitude":12.458306,"CasesCount":667,"ÑonvalesCount":294,"DiedCount":42}
-{"Name":"ßìàéêà","Latitude":18.185051,"Longitude":-77.39477,"CasesCount":564,"ÑonvalesCount":267,"DiedCount":9}
-{"Name":"Íîğìàíäñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":559,"ÑonvalesCount":559,"DiedCount":45}
-{"Name":"Òàíçàíèÿ","Latitude":-6.524712,"Longitude":35.787846,"CasesCount":509,"ÑonvalesCount":509,"DiedCount":21}
-{"Name":"Êîíãî","Latitude":-0.726433,"Longitude":15.641916,"CasesCount":487,"ÑonvalesCount":487,"DiedCount":16}
-{"Name":"Ğåşíüîí","Latitude":-21.132015,"Longitude":55.528255,"CasesCount":460,"ÑonvalesCount":411,"DiedCount":1}
-{"Name":"Òàéâàíü","Latitude":23.973936,"Longitude":120.98202,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":7}
-{"Name":"Ñàí-Òîìå è Ïğèíñèïè","Latitude":0.88755,"Longitude":6.964872,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":12}
-{"Name":"Ïàëåñòèíà","Latitude":31.64974,"Longitude":35.16207,"CasesCount":434,"ÑonvalesCount":365,"DiedCount":3}
-{"Name":"Òîãî","Latitude":8.780026,"Longitude":1.019976,"CasesCount":391,"ÑonvalesCount":177,"DiedCount":13}
-{"Name":"Êàáî-Âåğäå","Latitude":16.000055,"Longitude":-24.008394,"CasesCount":390,"ÑonvalesCount":390,"DiedCount":4}
-{"Name":"Ôğàíöóçñêàÿ Ãâèàíà","Latitude":4.044207,"Longitude":-53.01576,"CasesCount":384,"ÑonvalesCount":146,"DiedCount":1}
-{"Name":"Ğóàíäà","Latitude":-1.964663,"Longitude":30.064436,"CasesCount":339,"ÑonvalesCount":339,"DiedCount":0}
-{"Name":"Îñòğîâ Ìıí","Latitude":54.1995,"Longitude":-4.543835,"CasesCount":336,"ÑonvalesCount":336,"DiedCount":24}
-{"Name":"Ìàâğèêèé","Latitude":-20.275946,"Longitude":57.57036,"CasesCount":334,"ÑonvalesCount":334,"DiedCount":10}
-{"Name":"Âüåòíàì","Latitude":13.290403,"Longitude":108.42651,"CasesCount":327,"ÑonvalesCount":327,"DiedCount":0}
-{"Name":"×åğíîãîğèÿ","Latitude":43.028557,"Longitude":19.291739,"CasesCount":324,"ÑonvalesCount":324,"DiedCount":9}
-{"Name":"Ìàâğèòàíèÿ","Latitude":20.254038,"Longitude":-9.239926,"CasesCount":268,"ÑonvalesCount":268,"DiedCount":13}
-{"Name":"Ëèáåğèÿ","Latitude":5.749972,"Longitude":-9.365852,"CasesCount":266,"ÑonvalesCount":266,"DiedCount":27}
-{"Name":"Éåìåí","Latitude":16.347124,"Longitude":47.891525,"CasesCount":249,"ÑonvalesCount":249,"DiedCount":49}
-{"Name":"Ìîçàìáèê","Latitude":-19.302233,"Longitude":34.914497,"CasesCount":227,"ÑonvalesCount":71,"DiedCount":1}
-{"Name":"Áåíèí","Latitude":9.529347,"Longitude":2.258441,"CasesCount":210,"ÑonvalesCount":134,"DiedCount":3}
-{"Name":"Ìüÿíìà","Latitude":17.175049,"Longitude":95.99996,"CasesCount":206,"ÑonvalesCount":206,"DiedCount":6}
-{"Name":"Ìàğòèíèêà","Latitude":14.652174,"Longitude":-61.008026,"CasesCount":197,"ÑonvalesCount":197,"DiedCount":14}
-{"Name":"Ôàğåğñêèå îñòğîâà","Latitude":62.044872,"Longitude":-7.032297,"CasesCount":187,"ÑonvalesCount":187,"DiedCount":0}
-{"Name":"Ãâàäåëóïà","Latitude":16.179182,"Longitude":-61.42811,"CasesCount":161,"ÑonvalesCount":161,"DiedCount":14}
-{"Name":"Ãèáğàëòàğ","Latitude":36.13166,"Longitude":-5.351725,"CasesCount":157,"ÑonvalesCount":147,"DiedCount":0}
-{"Name":"Ìîíãîëèÿ","Latitude":46.865623,"Longitude":105.4252,"CasesCount":148,"ÑonvalesCount":43,"DiedCount":0}
-{"Name":"Áğóíåé","Latitude":4.413716,"Longitude":114.56539,"CasesCount":141,"ÑonvalesCount":141,"DiedCount":2}
-{"Name":"Áåğìóäû","Latitude":32.301823,"Longitude":-64.76036,"CasesCount":139,"ÑonvalesCount":91,"DiedCount":9}
-{"Name":"Ãàéàíà","Latitude":4.84171,"Longitude":-58.64169,"CasesCount":139,"ÑonvalesCount":62,"DiedCount":11}
-{"Name":"Êàéìàíîâû îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":137,"ÑonvalesCount":63,"DiedCount":1}
-{"Name":"Êàìáîäæà","Latitude":13.506639,"Longitude":104.86942,"CasesCount":124,"ÑonvalesCount":124,"DiedCount":0}
-{"Name":"Ñèğèÿ","Latitude":34.640186,"Longitude":39.04941,"CasesCount":121,"ÑonvalesCount":121,"DiedCount":4}
-{"Name":"Òğèíèäàä è Òîáàãî","Latitude":10.867784,"Longitude":-60.982105,"CasesCount":116,"ÑonvalesCount":116,"DiedCount":8}
-{"Name":"Àğóáà","Latitude":12.543,"Longitude":-69.98042,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":3}
-{"Name":"Ìàëàâè","Latitude":-13.26872,"Longitude":33.930195,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":4}
-{"Name":"Áàãàìñêèå îñòğîâà","Latitude":24.773655,"Longitude":-78.00005,"CasesCount":100,"ÑonvalesCount":100,"DiedCount":11}
-{"Name":"Ìîíàêî","Latitude":43.731197,"Longitude":7.41964,"CasesCount":98,"ÑonvalesCount":98,"DiedCount":4}
-{"Name":"Áàğáàäîñ","Latitude":13.150033,"Longitude":-59.52503,"CasesCount":92,"ÑonvalesCount":92,"DiedCount":7}
-{"Name":"Êîìîğñêèå îñòğîâà","Latitude":-12.204518,"Longitude":44.283295,"CasesCount":87,"ÑonvalesCount":87,"DiedCount":1}
-{"Name":"Ëèõòåíøòåéí","Latitude":47.15934,"Longitude":9.546939,"CasesCount":82,"ÑonvalesCount":82,"DiedCount":1}
-{"Name":"Ñèíò-Ìàğòåí","Latitude":17.9345,"Longitude":-63.153934,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":15}
-{"Name":"Ëèâèÿ","Latitude":26.823446,"Longitude":18.123672,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":3}
-{"Name":"Àíãîëà","Latitude":-11.877577,"Longitude":17.569124,"CasesCount":71,"ÑonvalesCount":18,"DiedCount":4}
-{"Name":"Ôğàíöóçñêàÿ Ïîëèíåçèÿ","Latitude":-16.034426,"Longitude":-146.04909,"CasesCount":60,"ÑonvalesCount":60,"DiedCount":0}
-{"Name":"Çèìáàáâå","Latitude":-18.455496,"Longitude":29.746841,"CasesCount":56,"ÑonvalesCount":56,"DiedCount":4}
-{"Name":"Ìàêàî","Latitude":22.191952,"Longitude":113.538124,"CasesCount":45,"ÑonvalesCount":45,"DiedCount":0}
-{"Name":"Áóğóíäè","Latitude":-3.363436,"Longitude":29.887056,"CasesCount":42,"ÑonvalesCount":42,"DiedCount":1}
-{"Name":"Ñåí-Ìàğòåí","Latitude":18.081408,"Longitude":-63.046715,"CasesCount":40,"ÑonvalesCount":40,"DiedCount":3}
-{"Name":"İğèòğåÿ","Latitude":15.950032,"Longitude":37.999966,"CasesCount":39,"ÑonvalesCount":39,"DiedCount":0}
-{"Name":"Áîòñâàíà","Latitude":-23.168179,"Longitude":24.592875,"CasesCount":35,"ÑonvalesCount":35,"DiedCount":1}
-{"Name":"Áóòàí","Latitude":27.549511,"Longitude":90.511925,"CasesCount":28,"ÑonvalesCount":6,"DiedCount":0}
-{"Name":"Àíòèãóà è Áàğáóäà","Latitude":17.079128,"Longitude":-61.82225,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":3}
-{"Name":"Ãàìáèÿ","Latitude":13.470062,"Longitude":-15.490046,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":1}
-{"Name":"Âîñòî÷íûé Òèìîğ","Latitude":-8.515198,"Longitude":125.83758,"CasesCount":24,"ÑonvalesCount":24,"DiedCount":0}
-{"Name":"Ãğåíàäà","Latitude":12.136037,"Longitude":-61.690403,"CasesCount":23,"ÑonvalesCount":23,"DiedCount":0}
-{"Name":"Íàìèáèÿ","Latitude":-23.23355,"Longitude":17.32311,"CasesCount":22,"ÑonvalesCount":14,"DiedCount":0}
-{"Name":"Ëàîñ","Latitude":20.01711,"Longitude":103.37825,"CasesCount":19,"ÑonvalesCount":19,"DiedCount":0}
-{"Name":"Íîâàÿ Êàëåäîíèÿ","Latitude":-20.454288,"Longitude":164.55661,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Ñâÿòàÿ Ëşñèÿ","Latitude":55.485783,"Longitude":36.895695,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Áåëèç","Latitude":16.82598,"Longitude":-88.76009,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":2}
-{"Name":"Ôèäæè","Latitude":-18.123968,"Longitude":179.01227,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Êşğàñàî","Latitude":12.1845,"Longitude":-68.96409,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":1}
-{"Name":"Ñåíò-Âèíñåíò è Ãğåíàäèíû","Latitude":12.90447,"Longitude":-61.276558,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Äîìèíèêà","Latitude":15.411314,"Longitude":-61.36536,"CasesCount":16,"ÑonvalesCount":16,"DiedCount":0}
-{"Name":"Ñåíò Êèòñ è Íåâèñ","Latitude":17.346228,"Longitude":-62.768726,"CasesCount":15,"ÑonvalesCount":15,"DiedCount":0}
-{"Name":"Ôîëêëåíäñêèå îñòğîâà","Latitude":-51.96664,"Longitude":-59.550037,"CasesCount":13,"ÑonvalesCount":13,"DiedCount":0}
-{"Name":"Ãğåíëàíäèÿ","Latitude":77.61923,"Longitude":-42.812595,"CasesCount":12,"ÑonvalesCount":12,"DiedCount":0}
-{"Name":"Ñóğèíàì","Latitude":4.141303,"Longitude":-56.077118,"CasesCount":11,"ÑonvalesCount":11,"DiedCount":1}
-{"Name":"Çàïàäíàÿ Ñàõàğà","Latitude":24.179731,"Longitude":-13.766785,"CasesCount":9,"ÑonvalesCount":9,"DiedCount":1}
-{"Name":"ÑØÀ","Latitude":17.789186,"Longitude":-64.70805,"CasesCount":1730100,"ÑonvalesCount":480321,"DiedCount":100765}
-{"Name":"Áğàçèëèÿ","Latitude":-10.333333,"Longitude":-53.2,"CasesCount":394507,"ÑonvalesCount":158593,"DiedCount":24593}
-{"Name":"Ğîññèÿ","Latitude":64.68632,"Longitude":97.74531,"CasesCount":370680,"ÑonvalesCount":142208,"DiedCount":3968}
-{"Name":"Èñïàíèÿ","Latitude":40.002804,"Longitude":-4.003104,"CasesCount":283339,"ÑonvalesCount":283339,"DiedCount":27117}
-{"Name":"Âåëèêîáğèòàíèÿ","Latitude":54.702354,"Longitude":-3.276575,"CasesCount":267240,"ÑonvalesCount":1559,"DiedCount":37460}
-{"Name":"Èòàëèÿ","Latitude":42.638428,"Longitude":12.674297,"CasesCount":230555,"ÑonvalesCount":230555,"DiedCount":32955}
-{"Name":"Ôğàíöèÿ","Latitude":46.603355,"Longitude":1.888333,"CasesCount":182722,"ÑonvalesCount":182722,"DiedCount":28530}
-{"Name":"Ãåğìàíèÿ","Latitude":51.08342,"Longitude":10.423447,"CasesCount":181530,"ÑonvalesCount":162800,"DiedCount":8498}
-{"Name":"Òóğöèÿ","Latitude":38.95976,"Longitude":34.924965,"CasesCount":158762,"ÑonvalesCount":158762,"DiedCount":4397}
-{"Name":"Èíäèÿ","Latitude":22.351114,"Longitude":78.66774,"CasesCount":154820,"ÑonvalesCount":65944,"DiedCount":4406}
-{"Name":"Èğàí","Latitude":32.94075,"Longitude":52.947132,"CasesCount":141591,"ÑonvalesCount":111176,"DiedCount":7564}
-{"Name":"Ïåğó","Latitude":-6.86997,"Longitude":-75.04585,"CasesCount":129751,"ÑonvalesCount":52906,"DiedCount":3788}
-{"Name":"Êàíàäà","Latitude":61.066692,"Longitude":-107.99171,"CasesCount":86647,"ÑonvalesCount":45339,"DiedCount":6639}
-{"Name":"Êèòàé","Latitude":35.000072,"Longitude":104.99992,"CasesCount":82993,"ÑonvalesCount":78280,"DiedCount":4634}
-{"Name":"Ïàêèñòàí","Latitude":30.33084,"Longitude":71.2475,"CasesCount":59151,"ÑonvalesCount":19142,"DiedCount":1225}
-{"Name":"Áåëüãèÿ","Latitude":50.640736,"Longitude":4.66696,"CasesCount":57592,"ÑonvalesCount":15465,"DiedCount":9364}
-{"Name":"Êàòàğ","Latitude":25.333698,"Longitude":51.22953,"CasesCount":48947,"ÑonvalesCount":13283,"DiedCount":30}
-{"Name":"Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":45768,"ÑonvalesCount":188,"DiedCount":5871}
-{"Name":"Áåëàğóñü","Latitude":53.42506,"Longitude":27.697136,"CasesCount":38956,"ÑonvalesCount":15923,"DiedCount":214}
-{"Name":"Áàíãëàäåø","Latitude":24.476877,"Longitude":90.29324,"CasesCount":38292,"ÑonvalesCount":7925,"DiedCount":544}
-{"Name":"İêâàäîğ","Latitude":-1.339767,"Longitude":-79.3667,"CasesCount":37355,"ÑonvalesCount":37355,"DiedCount":3203}
-{"Name":"Øâåöèÿ","Latitude":59.674973,"Longitude":14.520858,"CasesCount":35088,"ÑonvalesCount":4971,"DiedCount":4220}
-{"Name":"Ñèíãàïóğ","Latitude":1.357107,"Longitude":103.819496,"CasesCount":32876,"ÑonvalesCount":17276,"DiedCount":23}
-{"Name":"Ïîğòóãàëèÿ","Latitude":40.033264,"Longitude":-7.889626,"CasesCount":31292,"ÑonvalesCount":18349,"DiedCount":1356}
-{"Name":"ÎÀİ","Latitude":24.00025,"Longitude":53.99948,"CasesCount":31086,"ÑonvalesCount":31086,"DiedCount":253}
-{"Name":"Øâåéöàğèÿ","Latitude":46.79856,"Longitude":8.231974,"CasesCount":30776,"ÑonvalesCount":28200,"DiedCount":1917}
-{"Name":"Èğëàíäèÿ","Latitude":52.865196,"Longitude":-7.97946,"CasesCount":24735,"ÑonvalesCount":24735,"DiedCount":1615}
-{"Name":"ŞÀĞ","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":24264,"ÑonvalesCount":24264,"DiedCount":524}
-{"Name":"Èíäîíåçèÿ","Latitude":-4.799336,"Longitude":114.5632,"CasesCount":23851,"ÑonvalesCount":6057,"DiedCount":1473}
-{"Name":"Êóâåéò","Latitude":29.273396,"Longitude":47.497948,"CasesCount":23267,"ÑonvalesCount":7946,"DiedCount":175}
-{"Name":"Êîëóìáèÿ","Latitude":2.893078,"Longitude":-73.78451,"CasesCount":23003,"ÑonvalesCount":5511,"DiedCount":776}
-{"Name":"Ïîëüøà","Latitude":52.097717,"Longitude":19.025816,"CasesCount":22303,"ÑonvalesCount":10330,"DiedCount":1025}
-{"Name":"Ğóìûíèÿ","Latitude":45.985214,"Longitude":24.685923,"CasesCount":18594,"ÑonvalesCount":12162,"DiedCount":1223}
-{"Name":"Èçğàèëü","Latitude":30.876026,"Longitude":35.00152,"CasesCount":16771,"ÑonvalesCount":14486,"DiedCount":281}
-{"Name":"ßïîíèÿ","Latitude":36.574844,"Longitude":139.23941,"CasesCount":16623,"ÑonvalesCount":13810,"DiedCount":846}
-{"Name":"Àâñòğèÿ","Latitude":47.200035,"Longitude":13.199959,"CasesCount":16591,"ÑonvalesCount":15228,"DiedCount":645}
-{"Name":"Äîìèíèêàíñêàÿ ğåñïóáëèêà","Latitude":19.094175,"Longitude":-70.30127,"CasesCount":15264,"ÑonvalesCount":15264,"DiedCount":468}
-{"Name":"Ôèëèïïèíû","Latitude":12.750349,"Longitude":122.73121,"CasesCount":15049,"ÑonvalesCount":3506,"DiedCount":904}
-{"Name":"Àğãåíòèíà","Latitude":-35.003902,"Longitude":-65.26997,"CasesCount":13228,"ÑonvalesCount":4349,"DiedCount":492}
-{"Name":"Àôãàíèñòàí","Latitude":33.000088,"Longitude":64.99985,"CasesCount":12456,"ÑonvalesCount":1138,"DiedCount":227}
-{"Name":"Äàíèÿ","Latitude":55.67025,"Longitude":10.333328,"CasesCount":11480,"ÑonvalesCount":10106,"DiedCount":565}
-{"Name":"Ïàíàìà","Latitude":8.309607,"Longitude":-81.306625,"CasesCount":11447,"ÑonvalesCount":6379,"DiedCount":313}
-{"Name":"Êàìåğóí","Latitude":4.612552,"Longitude":13.153581,"CasesCount":5436,"ÑonvalesCount":1996,"DiedCount":175}
-{"Name":"Èğàê","Latitude":33.095577,"Longitude":44.174976,"CasesCount":4848,"ÑonvalesCount":4848,"DiedCount":169}
-{"Name":"Àçåğáàéäæàí","Latitude":40.163666,"Longitude":47.820744,"CasesCount":4568,"ÑonvalesCount":2897,"DiedCount":54}
-{"Name":"Ãîíäóğàñ","Latitude":15.061069,"Longitude":-84.597855,"CasesCount":4401,"ÑonvalesCount":493,"DiedCount":188}
-{"Name":"Ñóäàí","Latitude":15.79125,"Longitude":30.371424,"CasesCount":4146,"ÑonvalesCount":588,"DiedCount":184}
-{"Name":"Ëşêñåìáóğã","Latitude":49.81587,"Longitude":6.129675,"CasesCount":3995,"ÑonvalesCount":3995,"DiedCount":110}
-{"Name":"Ãâàòåìàëà","Latitude":15.635609,"Longitude":-89.89881,"CasesCount":3954,"ÑonvalesCount":289,"DiedCount":63}
-{"Name":"Âåíãğèÿ","Latitude":47.18176,"Longitude":19.506094,"CasesCount":3793,"ÑonvalesCount":1856,"DiedCount":505}
-{"Name":"Òàäæèêèñòàí","Latitude":38.628174,"Longitude":70.81565,"CasesCount":3424,"ÑonvalesCount":1575,"DiedCount":47}
-{"Name":"Óçáåêèñòàí","Latitude":41.32373,"Longitude":63.95281,"CasesCount":3355,"ÑonvalesCount":2668,"DiedCount":14}
-{"Name":"Ãâèíåÿ","Latitude":10.722623,"Longitude":-10.708359,"CasesCount":3275,"ÑonvalesCount":3275,"DiedCount":20}
-{"Name":"Ñåíåãàë","Latitude":14.475061,"Longitude":-14.452961,"CasesCount":3253,"ÑonvalesCount":1586,"DiedCount":38}
-{"Name":"Òàèëàíä","Latitude":14.897192,"Longitude":100.83273,"CasesCount":3054,"ÑonvalesCount":2931,"DiedCount":57}
-{"Name":"Ãğåöèÿ","Latitude":39.000042,"Longitude":21.999956,"CasesCount":2892,"ÑonvalesCount":2892,"DiedCount":173}
-{"Name":"Äæèáóòè","Latitude":11.856775,"Longitude":42.757786,"CasesCount":2697,"ÑonvalesCount":1185,"DiedCount":18}
-{"Name":"Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà Êîíãî","Latitude":-2.981434,"Longitude":23.822264,"CasesCount":2546,"ÑonvalesCount":365,"DiedCount":68}
-{"Name":"Êîò-ä'Èâóàğ","Latitude":7.989737,"Longitude":-5.567946,"CasesCount":2477,"ÑonvalesCount":2477,"DiedCount":30}
-{"Name":"Áîëãàğèÿ","Latitude":42.607395,"Longitude":25.485662,"CasesCount":2460,"ÑonvalesCount":912,"DiedCount":133}
-{"Name":"Áîñíèÿ è Ãåğöåãîâèíà","Latitude":44.30924,"Longitude":17.585966,"CasesCount":2435,"ÑonvalesCount":1744,"DiedCount":151}
-{"Name":"Õîğâàòèÿ","Latitude":45.564342,"Longitude":17.011894,"CasesCount":2244,"ÑonvalesCount":2244,"DiedCount":101}
-{"Name":"Ãàáîí","Latitude":-0.899969,"Longitude":11.68997,"CasesCount":2238,"ÑonvalesCount":593,"DiedCount":14}
-{"Name":"Ñàëüâàäîğ","Latitude":13.800038,"Longitude":-88.91407,"CasesCount":2109,"ÑonvalesCount":873,"DiedCount":37}
-{"Name":"Ìàêåäîíèÿ","Latitude":41.617123,"Longitude":21.716839,"CasesCount":2039,"ÑonvalesCount":1470,"DiedCount":119}
-{"Name":"Êóáà","Latitude":23.013134,"Longitude":-80.83288,"CasesCount":1974,"ÑonvalesCount":1724,"DiedCount":82}
-{"Name":"İñòîíèÿ","Latitude":58.752377,"Longitude":25.331907,"CasesCount":1840,"ÑonvalesCount":1561,"DiedCount":66}
-{"Name":"Èñëàíäèÿ","Latitude":64.984184,"Longitude":-18.105902,"CasesCount":1805,"ÑonvalesCount":1792,"DiedCount":10}
-{"Name":"Ñîìàëè","Latitude":8.367677,"Longitude":49.083416,"CasesCount":1711,"ÑonvalesCount":1711,"DiedCount":67}
-{"Name":"Ëèòâà","Latitude":55.35,"Longitude":23.75,"CasesCount":1647,"ÑonvalesCount":1184,"DiedCount":66}
-{"Name":"Ìàéîòòà","Latitude":-12.821211,"Longitude":45.129494,"CasesCount":1634,"ÑonvalesCount":1634,"DiedCount":20}
-{"Name":"Êûğãûçñòàí","Latitude":41.50893,"Longitude":74.72409,"CasesCount":1520,"ÑonvalesCount":1043,"DiedCount":16}
-{"Name":"Ñëîâàêèÿ","Latitude":48.741154,"Longitude":19.452866,"CasesCount":1515,"ÑonvalesCount":1327,"DiedCount":28}
-{"Name":"Íîâàÿ Çåëàíäèÿ","Latitude":-41.500084,"Longitude":172.83441,"CasesCount":1504,"ÑonvalesCount":1504,"DiedCount":21}
-{"Name":"Ñëîâåíèÿ","Latitude":45.813313,"Longitude":14.480837,"CasesCount":1471,"ÑonvalesCount":1354,"DiedCount":108}
-{"Name":"Êåíèÿ","Latitude":1.441968,"Longitude":38.431396,"CasesCount":1471,"ÑonvalesCount":408,"DiedCount":55}
-{"Name":"Ìàëüäèâñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":1457,"ÑonvalesCount":197,"DiedCount":5}
-{"Name":"Øğè-Ëàíêà","Latitude":7.878,"Longitude":80.70383,"CasesCount":1372,"ÑonvalesCount":732,"DiedCount":10}
-{"Name":"Âåíåñóıëà","Latitude":8.001871,"Longitude":-66.11093,"CasesCount":1211,"ÑonvalesCount":302,"DiedCount":11}
-{"Name":"Ãâèíåÿ-Áèñàó","Latitude":12.100035,"Longitude":-14.900021,"CasesCount":1178,"ÑonvalesCount":1178,"DiedCount":7}
-{"Name":"Ãàèòè","Latitude":19.139996,"Longitude":-72.35709,"CasesCount":1174,"ÑonvalesCount":22,"DiedCount":33}
-{"Name":"Ëèâàí","Latitude":33.875065,"Longitude":35.84341,"CasesCount":1161,"ÑonvalesCount":692,"DiedCount":26}
-{"Name":"Ìàëè","Latitude":16.370035,"Longitude":-2.290024,"CasesCount":1077,"ÑonvalesCount":1077,"DiedCount":70}
-{"Name":"Ãîíêîíã","Latitude":22.350628,"Longitude":114.18491,"CasesCount":1067,"ÑonvalesCount":1034,"DiedCount":4}
-{"Name":"Çàìáèÿ","Latitude":-14.518624,"Longitude":27.559916,"CasesCount":1057,"ÑonvalesCount":779,"DiedCount":7}
-{"Name":"Ëàòâèÿ","Latitude":56.86669,"Longitude":24.599972,"CasesCount":1057,"ÑonvalesCount":741,"DiedCount":23}
-{"Name":"Òóíèñ","Latitude":34.003536,"Longitude":9.360772,"CasesCount":1051,"ÑonvalesCount":1051,"DiedCount":48}
-{"Name":"Àëáàíèÿ","Latitude":41.000027,"Longitude":19.999962,"CasesCount":1050,"ÑonvalesCount":812,"DiedCount":33}
-{"Name":"İêâàòîğèàëüíàÿ Ãâèíåÿ","Latitude":1.613172,"Longitude":10.517036,"CasesCount":1043,"ÑonvalesCount":1043,"DiedCount":12}
-{"Name":"Êîñòà-Ğèêà","Latitude":10.273563,"Longitude":-84.07391,"CasesCount":956,"ÑonvalesCount":956,"DiedCount":10}
-{"Name":"Íèãåğ","Latitude":17.73562,"Longitude":9.323843,"CasesCount":952,"ÑonvalesCount":796,"DiedCount":63}
-{"Name":"Êèïğ","Latitude":35.169563,"Longitude":33.13964,"CasesCount":939,"ÑonvalesCount":939,"DiedCount":17}
-{"Name":"Íåïàë","Latitude":28.108318,"Longitude":84.09168,"CasesCount":886,"ÑonvalesCount":183,"DiedCount":4}
-{"Name":"Ïàğàãâàé","Latitude":-23.316593,"Longitude":-58.169346,"CasesCount":877,"ÑonvalesCount":877,"DiedCount":11}
-{"Name":"Áóğêèíà Ôàñî","Latitude":12.075308,"Longitude":-1.688031,"CasesCount":845,"ÑonvalesCount":672,"DiedCount":53}
-{"Name":"Şæíûé Ñóäàí","Latitude":7.869943,"Longitude":29.66679,"CasesCount":806,"ÑonvalesCount":806,"DiedCount":8}
-{"Name":"Óğóãâàé","Latitude":-32.875553,"Longitude":-56.020153,"CasesCount":789,"ÑonvalesCount":638,"DiedCount":22}
-{"Name":"Ñüåğğà-Ëåîíå","Latitude":8.640035,"Longitude":-11.840027,"CasesCount":782,"ÑonvalesCount":297,"DiedCount":45}
-{"Name":"Àíäîğğà","Latitude":42.540718,"Longitude":1.573203,"CasesCount":763,"ÑonvalesCount":763,"DiedCount":51}
-{"Name":"Íèêàğàãóà","Latitude":12.372493,"Longitude":-84.87003,"CasesCount":759,"ÑonvalesCount":759,"DiedCount":35}
-{"Name":"Ãğóçèÿ","Latitude":42.32115,"Longitude":43.53074,"CasesCount":735,"ÑonvalesCount":557,"DiedCount":12}
-{"Name":"İôèîïèÿ","Latitude":10.21167,"Longitude":38.65212,"CasesCount":731,"ÑonvalesCount":181,"DiedCount":6}
-{"Name":"Èîğäàíèÿ","Latitude":31.166704,"Longitude":36.941628,"CasesCount":718,"ÑonvalesCount":718,"DiedCount":9}
-{"Name":"×àä","Latitude":15.613414,"Longitude":19.015617,"CasesCount":700,"ÑonvalesCount":700,"DiedCount":62}
-{"Name":"Öåíòğàëüíî-Àôğèêàíñêàÿ Ğåñïóáëèêà","Latitude":-28.816624,"Longitude":24.991638,"CasesCount":671,"ÑonvalesCount":671,"DiedCount":1}
-{"Name":"Ñàí-Ìàğèíî","Latitude":43.94586,"Longitude":12.458306,"CasesCount":667,"ÑonvalesCount":294,"DiedCount":42}
-{"Name":"ßìàéêà","Latitude":18.185051,"Longitude":-77.39477,"CasesCount":564,"ÑonvalesCount":267,"DiedCount":9}
-{"Name":"Íîğìàíäñêèå îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":559,"ÑonvalesCount":559,"DiedCount":45}
-{"Name":"Òàíçàíèÿ","Latitude":-6.524712,"Longitude":35.787846,"CasesCount":509,"ÑonvalesCount":509,"DiedCount":21}
-{"Name":"Êîíãî","Latitude":-0.726433,"Longitude":15.641916,"CasesCount":487,"ÑonvalesCount":487,"DiedCount":16}
-{"Name":"Ğåşíüîí","Latitude":-21.132015,"Longitude":55.528255,"CasesCount":460,"ÑonvalesCount":411,"DiedCount":1}
-{"Name":"Òàéâàíü","Latitude":23.973936,"Longitude":120.98202,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":7}
-{"Name":"Ñàí-Òîìå è Ïğèíñèïè","Latitude":0.88755,"Longitude":6.964872,"CasesCount":441,"ÑonvalesCount":441,"DiedCount":12}
-{"Name":"Ïàëåñòèíà","Latitude":31.64974,"Longitude":35.16207,"CasesCount":434,"ÑonvalesCount":365,"DiedCount":3}
-{"Name":"Òîãî","Latitude":8.780026,"Longitude":1.019976,"CasesCount":391,"ÑonvalesCount":177,"DiedCount":13}
-{"Name":"Êàáî-Âåğäå","Latitude":16.000055,"Longitude":-24.008394,"CasesCount":390,"ÑonvalesCount":390,"DiedCount":4}
-{"Name":"Ôğàíöóçñêàÿ Ãâèàíà","Latitude":4.044207,"Longitude":-53.01576,"CasesCount":384,"ÑonvalesCount":146,"DiedCount":1}
-{"Name":"Ğóàíäà","Latitude":-1.964663,"Longitude":30.064436,"CasesCount":339,"ÑonvalesCount":339,"DiedCount":0}
-{"Name":"Îñòğîâ Ìıí","Latitude":54.1995,"Longitude":-4.543835,"CasesCount":336,"ÑonvalesCount":336,"DiedCount":24}
-{"Name":"Ìàâğèêèé","Latitude":-20.275946,"Longitude":57.57036,"CasesCount":334,"ÑonvalesCount":334,"DiedCount":10}
-{"Name":"Âüåòíàì","Latitude":13.290403,"Longitude":108.42651,"CasesCount":327,"ÑonvalesCount":327,"DiedCount":0}
-{"Name":"×åğíîãîğèÿ","Latitude":43.028557,"Longitude":19.291739,"CasesCount":324,"ÑonvalesCount":324,"DiedCount":9}
-{"Name":"Ìàâğèòàíèÿ","Latitude":20.254038,"Longitude":-9.239926,"CasesCount":268,"ÑonvalesCount":268,"DiedCount":13}
-{"Name":"Ëèáåğèÿ","Latitude":5.749972,"Longitude":-9.365852,"CasesCount":266,"ÑonvalesCount":266,"DiedCount":27}
-{"Name":"Éåìåí","Latitude":16.347124,"Longitude":47.891525,"CasesCount":249,"ÑonvalesCount":249,"DiedCount":49}
-{"Name":"Ìîçàìáèê","Latitude":-19.302233,"Longitude":34.914497,"CasesCount":227,"ÑonvalesCount":71,"DiedCount":1}
-{"Name":"Áåíèí","Latitude":9.529347,"Longitude":2.258441,"CasesCount":210,"ÑonvalesCount":134,"DiedCount":3}
-{"Name":"Ìüÿíìà","Latitude":17.175049,"Longitude":95.99996,"CasesCount":206,"ÑonvalesCount":206,"DiedCount":6}
-{"Name":"Ìàğòèíèêà","Latitude":14.652174,"Longitude":-61.008026,"CasesCount":197,"ÑonvalesCount":197,"DiedCount":14}
-{"Name":"Ôàğåğñêèå îñòğîâà","Latitude":62.044872,"Longitude":-7.032297,"CasesCount":187,"ÑonvalesCount":187,"DiedCount":0}
-{"Name":"Ãâàäåëóïà","Latitude":16.179182,"Longitude":-61.42811,"CasesCount":161,"ÑonvalesCount":161,"DiedCount":14}
-{"Name":"Ãèáğàëòàğ","Latitude":36.13166,"Longitude":-5.351725,"CasesCount":157,"ÑonvalesCount":147,"DiedCount":0}
-{"Name":"Ìîíãîëèÿ","Latitude":46.865623,"Longitude":105.4252,"CasesCount":148,"ÑonvalesCount":43,"DiedCount":0}
-{"Name":"Áğóíåé","Latitude":4.413716,"Longitude":114.56539,"CasesCount":141,"ÑonvalesCount":141,"DiedCount":2}
-{"Name":"Áåğìóäû","Latitude":32.301823,"Longitude":-64.76036,"CasesCount":139,"ÑonvalesCount":91,"DiedCount":9}
-{"Name":"Ãàéàíà","Latitude":4.84171,"Longitude":-58.64169,"CasesCount":139,"ÑonvalesCount":62,"DiedCount":11}
-{"Name":"Êàéìàíîâû îñòğîâà","Latitude":59.974735,"Longitude":30.272564,"CasesCount":137,"ÑonvalesCount":63,"DiedCount":1}
-{"Name":"Êàìáîäæà","Latitude":13.506639,"Longitude":104.86942,"CasesCount":124,"ÑonvalesCount":124,"DiedCount":0}
-{"Name":"Ñèğèÿ","Latitude":34.640186,"Longitude":39.04941,"CasesCount":121,"ÑonvalesCount":121,"DiedCount":4}
-{"Name":"Òğèíèäàä è Òîáàãî","Latitude":10.867784,"Longitude":-60.982105,"CasesCount":116,"ÑonvalesCount":116,"DiedCount":8}
-{"Name":"Àğóáà","Latitude":12.543,"Longitude":-69.98042,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":3}
-{"Name":"Ìàëàâè","Latitude":-13.26872,"Longitude":33.930195,"CasesCount":101,"ÑonvalesCount":101,"DiedCount":4}
-{"Name":"Áàãàìñêèå îñòğîâà","Latitude":24.773655,"Longitude":-78.00005,"CasesCount":100,"ÑonvalesCount":100,"DiedCount":11}
-{"Name":"Ìîíàêî","Latitude":43.731197,"Longitude":7.41964,"CasesCount":98,"ÑonvalesCount":98,"DiedCount":4}
-{"Name":"Áàğáàäîñ","Latitude":13.150033,"Longitude":-59.52503,"CasesCount":92,"ÑonvalesCount":92,"DiedCount":7}
-{"Name":"Êîìîğñêèå îñòğîâà","Latitude":-12.204518,"Longitude":44.283295,"CasesCount":87,"ÑonvalesCount":87,"DiedCount":1}
-{"Name":"Ëèõòåíøòåéí","Latitude":47.15934,"Longitude":9.546939,"CasesCount":82,"ÑonvalesCount":82,"DiedCount":1}
-{"Name":"Ñèíò-Ìàğòåí","Latitude":17.9345,"Longitude":-63.153934,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":15}
-{"Name":"Ëèâèÿ","Latitude":26.823446,"Longitude":18.123672,"CasesCount":77,"ÑonvalesCount":77,"DiedCount":3}
-{"Name":"Àíãîëà","Latitude":-11.877577,"Longitude":17.569124,"CasesCount":71,"ÑonvalesCount":18,"DiedCount":4}
-{"Name":"Ôğàíöóçñêàÿ Ïîëèíåçèÿ","Latitude":-16.034426,"Longitude":-146.04909,"CasesCount":60,"ÑonvalesCount":60,"DiedCount":0}
-{"Name":"Çèìáàáâå","Latitude":-18.455496,"Longitude":29.746841,"CasesCount":56,"ÑonvalesCount":56,"DiedCount":4}
-{"Name":"Ìàêàî","Latitude":22.191952,"Longitude":113.538124,"CasesCount":45,"ÑonvalesCount":45,"DiedCount":0}
-{"Name":"Áóğóíäè","Latitude":-3.363436,"Longitude":29.887056,"CasesCount":42,"ÑonvalesCount":42,"DiedCount":1}
-{"Name":"Ñåí-Ìàğòåí","Latitude":18.081408,"Longitude":-63.046715,"CasesCount":40,"ÑonvalesCount":40,"DiedCount":3}
-{"Name":"İğèòğåÿ","Latitude":15.950032,"Longitude":37.999966,"CasesCount":39,"ÑonvalesCount":39,"DiedCount":0}
-{"Name":"Áîòñâàíà","Latitude":-23.168179,"Longitude":24.592875,"CasesCount":35,"ÑonvalesCount":35,"DiedCount":1}
-{"Name":"Áóòàí","Latitude":27.549511,"Longitude":90.511925,"CasesCount":28,"ÑonvalesCount":6,"DiedCount":0}
-{"Name":"Àíòèãóà è Áàğáóäà","Latitude":17.079128,"Longitude":-61.82225,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":3}
-{"Name":"Ãàìáèÿ","Latitude":13.470062,"Longitude":-15.490046,"CasesCount":25,"ÑonvalesCount":25,"DiedCount":1}
-{"Name":"Âîñòî÷íûé Òèìîğ","Latitude":-8.515198,"Longitude":125.83758,"CasesCount":24,"ÑonvalesCount":24,"DiedCount":0}
-{"Name":"Ãğåíàäà","Latitude":12.136037,"Longitude":-61.690403,"CasesCount":23,"ÑonvalesCount":23,"DiedCount":0}
-{"Name":"Íàìèáèÿ","Latitude":-23.23355,"Longitude":17.32311,"CasesCount":22,"ÑonvalesCount":14,"DiedCount":0}
-{"Name":"Ëàîñ","Latitude":20.01711,"Longitude":103.37825,"CasesCount":19,"ÑonvalesCount":19,"DiedCount":0}
-{"Name":"Íîâàÿ Êàëåäîíèÿ","Latitude":-20.454288,"Longitude":164.55661,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Ñâÿòàÿ Ëşñèÿ","Latitude":55.485783,"Longitude":36.895695,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Áåëèç","Latitude":16.82598,"Longitude":-88.76009,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":2}
-{"Name":"Ôèäæè","Latitude":-18.123968,"Longitude":179.01227,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Êşğàñàî","Latitude":12.1845,"Longitude":-68.96409,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":1}
-{"Name":"Ñåíò-Âèíñåíò è Ãğåíàäèíû","Latitude":12.90447,"Longitude":-61.276558,"CasesCount":18,"ÑonvalesCount":18,"DiedCount":0}
-{"Name":"Äîìèíèêà","Latitude":15.411314,"Longitude":-61.36536,"CasesCount":16,"ÑonvalesCount":16,"DiedCount":0}
-{"Name":"Ñåíò Êèòñ è Íåâèñ","Latitude":17.346228,"Longitude":-62.768726,"CasesCount":15,"ÑonvalesCount":15,"DiedCount":0}
-{"Name":"Ôîëêëåíäñêèå îñòğîâà","Latitude":-51.96664,"Longitude":-59.550037,"CasesCount":13,"ÑonvalesCount":13,"DiedCount":0}
-{"Name":"Ãğåíëàíäèÿ","Latitude":77.61923,"Longitude":-42.812595,"CasesCount":12,"ÑonvalesCount":12,"DiedCount":0}
-{"Name":"Ñóğèíàì","Latitude":4.141303,"Longitude":-56.077118,"CasesCount":11,"ÑonvalesCount":11,"DiedCount":1}
-{"Name":"Çàïàäíàÿ Ñàõàğà","Latitude":24.179731,"Longitude":-13.766785,"CasesCount":9,"ÑonvalesCount":9,"DiedCount":1}
-{"Name":"Ïàïóà Íîâàÿ Ãâèíåÿ","Latitude":-5.681607,"Longitude":144.2489,"CasesCount":8,"ÑonvalesCount":8,"DiedCount":0}
-{"Name":"Áğèòàíñêèå Âèğãèíñêèå îñòğîâà","Latitude":18.40244,"Longitude":-64.56616,"CasesCount":8,"ÑonvalesCount":8,"DiedCount":1}
-{"Name":"Êàğèáñêèå Íèäåğëàíäû","Latitude":52.50017,"Longitude":5.748082,"CasesCount":6,"ÑonvalesCount":6,"DiedCount":0}
-{"Name":"Ñåí-Áàğòåëåìè","Latitude":17.896257,"Longitude":-62.829926,"CasesCount":6,"ÑonvalesCount":6,"DiedCount":0}
-{"Name":"Ñåí-Ïüåğ è Ìèêåëîí","Latitude":46.837456,"Longitude":-56.212055,"CasesCount":1,"ÑonvalesCount":1,"DiedCount":0}
+{"Name":"Óêğàèíà","Latitude":49,"Longitude":32,"CasesCount":1,"ÑonvalesCount":1,"DiedCount":0}
+{"Name":"Åãèïåò","Latitude":26.25405,"Longitude":29.267548,"CasesCount":19666,"ÑonvalesCount":19666,"DiedCount":816}

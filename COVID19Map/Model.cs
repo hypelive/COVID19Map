@@ -6,6 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using Ninject;
 
 namespace COVID19Map
 {
@@ -20,11 +21,14 @@ namespace COVID19Map
 
         public Model()
         {
-            //Data = DataCollector.GetData();
-            var cd = new CountryData() { Name = "USA", CasesCount = 5000000, СonvalesCount = 4500000, DiedCount = 500000 };
+            var container = new StandardKernel();
+            container.Bind<IParser>().To<DataParser>();
+            var dataCollector = container.Get<DataCollector>();
+            Data = dataCollector.GetData();
+            /*var cd = new CountryData() { Name = "USA", CasesCount = 10000 };
             var p = new DataParser();
             p.ParseСoordinates(cd);
-            Data = new List<CountryData>() { cd };
+            Data = new List<CountryData>() { cd };*/
 
             InitStatPlugins();
         }

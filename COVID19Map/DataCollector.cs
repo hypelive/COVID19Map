@@ -7,12 +7,18 @@ using System.Threading.Tasks;
 
 namespace COVID19Map
 {
-    static class DataCollector
+    class DataCollector
     {
-        public static List<CountryData> GetData()
+        private IParser parser;
+
+        public DataCollector(IParser currentParser)
+        {
+            parser = currentParser;
+        }
+
+        public List<CountryData> GetData()
         {
             var data = new List<CountryData>();
-            var parser = new DataParser();
             parser.ParseStatistics(data);
             var count = data.Count;
             for (var i = 0; i < count; i++)

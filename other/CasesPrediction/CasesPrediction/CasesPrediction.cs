@@ -9,27 +9,23 @@ namespace CasesPrediction
 {
     public class CasesPrediction : IStatPlugin
     {
-        private const long Population = 7763035303L;
+        public const long Population = 7763035303L;
         private const double Coefficient = .0185d;
 
-        private double GetPercentAfterTime(int time, double nowPercent) => nowPercent / (nowPercent + (1- nowPercent) / Math.Pow(Math.E, Coefficient * time));
-
         private void AddStat(StringBuilder statistic, string timeLabel, int days,
-            double nowPercent, double convalesPercent, double diedPercent)
+            double casesPart, double convalesPart, double diedPart)
         {
-            var cases = (long)(GetPercentAfterTime(days, nowPercent) * Population);
+            var cases = (long)(GetPercentAfterTime(days, casesPart) * Population);
             statistic.Append($"{timeLabel}:\n");
             statistic.Append($"    Total cases: {cases}\n");
-            statistic.Append($"    Convales: {cases * convalesPercent}\n");
-            statistic.Append($"    Died: {cases * diedPercent}\n\n");
+            statistic.Append($"    Convales: {(long)(cases * convalesPart)}\n");
+            statistic.Append($"    Died: {(long)(cases * diedPart)}\n\n");
         }
 
-        public string GetLabel()
-        {
-            return "Predict statistic";
-        }
+        public double GetPercentAfterTime(int time, double nowPercent) => nowPercent / (nowPercent + (1- nowPercent) / Math.Pow(Math.E, Coefficient * time));
 
-        public string GetStatistic(List<CountryData> data)
+        public void CalculatePercents(List<CountryData> data,
+            out double casesPart, out double convalesPart, out double diedPart)
         {
             long totalCases = data
                 .Select((cd) => cd.CasesCount)
@@ -40,14 +36,27 @@ namespace CasesPrediction
             long totalConvales = data
                 .Select((cd) => cd.СonvalesCount)
                 .Sum();
-            double nowPercent = (double)totalCases / Population;
-            double convalesPercent = (double)totalConvales / totalCases;
-            double diedPercent = (double)totalDied / totalCases;
+
+            casesPart = (double)totalCases / Population;
+            convalesPart = (double)totalConvales / totalCases;
+            diedPart = (double)totalDied / totalCases;
+        }
+
+        public string GetLabel()
+        {
+            return "Predict statistic";
+        }
+
+        public string GetStatistic(List<CountryData> data)
+        {
+            CalculatePercents(data,
+                out var casesPart, out var convalesPart, out var diedPart);
+            
             var statistic = new StringBuilder();
-            AddStat(statistic, "now", 0, nowPercent, convalesPercent, diedPercent);
-            AddStat(statistic, "1 day", 1, nowPercent, convalesPercent, diedPercent);
-            AddStat(statistic, "7 days", 7, nowPercent, convalesPercent, diedPercent);
-            AddStat(statistic, "30 days", 30, nowPercent, convalesPercent, diedPercent);
+            AddStat(statistic, "now", 0, casesPart, convalesPart, diedPart);
+            AddStat(statistic, "1 day", 1, casesPart, convalesPart, diedPart);
+            AddStat(statistic, "7 days", 7, casesPart, convalesPart, diedPart);
+            AddStat(statistic, "30 days", 30, casesPart, convalesPart, diedPart);
             return statistic.ToString();
         }
     }

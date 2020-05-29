@@ -1,0 +1,12 @@
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\CasesPrediction.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\CasesPrediction.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\nunit.framework.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\StatsResources.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\nunit.framework.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\nunit.framework.xml
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Release\StatsResources.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Release\CasesPrediction.csprojAssemblyReference.cache
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Release\CasesPrediction.csproj.CoreCompileInputs.cache
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Release\CasesPrediction.csproj.CopyComplete
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Release\CasesPrediction.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Release\CasesPrediction.pdb

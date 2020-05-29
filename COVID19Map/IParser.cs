@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace COVID19Map
 {
-    interface IParser
+    public interface IParser
     {
         void ParseСoordinates(CountryData country);
         void ParseStatistics(List<CountryData> countryDatas);

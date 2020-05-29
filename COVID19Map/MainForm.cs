@@ -14,23 +14,27 @@ namespace COVID19Map
     public partial class MainForm : Form
     {
         private Model Model { get; set; }
-        private IMarkLocalization clocalization;
+        private readonly string pluginsHelpText = "Чтобы добавить новый способ подсчета статистики, нужно добавить ваш .dll в папку StatPlugins";
+        private readonly string pluginRequirementsText = "Требования к плагину:\n1. должна использоваться StatsResources.dll\n2. должен быть хотя бы один класс, реализующий интерфейс IStatPlugin"; 
 
         public MainForm(IParser parser, IMarkLocalization localization)
         {
             InitializeComponent();
 
             Model = new Model(parser);
-            clocalization = localization;
             InitMap();
-            SetMarks();
+            SetMarks(localization);
             AddStats();
         }
 
         private void pluginsInfoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //add Localizat
-            var messageBox = MessageBox.Show("helpText", "Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            var message = new StringBuilder();
+            message.AppendLine(pluginsHelpText);
+            message.AppendLine(pluginRequirementsText);
+
+            MessageBox.Show(message.ToString(), pluginsInfoToolStripMenuItem.Text,
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void InitMap()
@@ -46,9 +50,9 @@ namespace COVID19Map
             GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
         }
 
-        private void SetMarks()
+        private void SetMarks(IMarkLocalization localization)
         {
-            Mark.Localization = clocalization;
+            Mark.Localization = localization;
             Mark.Font = DefaultFont;
 
             var marks = new GMapOverlay("COVIDMarks");
@@ -81,7 +85,7 @@ namespace COVID19Map
             }
             pluginsInfoToolStripMenuItem.Name = "pluginsInfoToolStripMenuItem";
             pluginsInfoToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
-            pluginsInfoToolStripMenuItem.Text = "Plugins info";
+            pluginsInfoToolStripMenuItem.Text = "Помощь";
             pluginsInfoToolStripMenuItem.Click += new System.EventHandler(pluginsInfoToolStripMenuItem_Click);
             statisticsMenu.DropDownItems.Add(pluginsInfoToolStripMenuItem);
         }

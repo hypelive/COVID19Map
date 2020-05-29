@@ -8,9 +8,9 @@ namespace COVID19Map
 {
     public interface IMarkLocalization
     {
-        string getCountryText();
-        string getTotalCasesText();
-        string getConvalesText();
-        string getDiedText();
+        string GetCountryText();
+        string GetTotalCasesText();
+        string GetConvalesText();
+        string GetDiedText();
     }
 }

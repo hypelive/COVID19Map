@@ -8,22 +8,22 @@ namespace COVID19Map
 {
     class EngMarkLocalization : IMarkLocalization
     {
-        public string getConvalesText()
+        public string GetConvalesText()
         {
             return "Convales";
         }
 
-        public string getCountryText()
+        public string GetCountryText()
         {
             return "Country";
         }
 
-        public string getDiedText()
+        public string GetDiedText()
         {
             return "Died";
         }
 
-        public string getTotalCasesText()
+        public string GetTotalCasesText()
         {
             return "Total cases";
         }

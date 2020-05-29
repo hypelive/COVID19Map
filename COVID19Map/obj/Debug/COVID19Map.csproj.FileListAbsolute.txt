@@ -15,3 +15,8 @@ C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\StatsResources.dll
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\StatsResources.pdb
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Newtonsoft.Json.dll
 C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Newtonsoft.Json.xml
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Ninject.dll
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\Ninject.xml
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\nunit.framework.dll
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\nunit.framework.pdb
+C:\Users\empil\Desktop\COVID19Map\COVID19Map\bin\Debug\nunit.framework.xml

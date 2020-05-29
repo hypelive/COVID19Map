@@ -201,3 +201,5 @@
 {"Name":"Ñåí-Ïüåğ è Ìèêåëîí","Latitude":46.837456,"Longitude":-56.212055,"CasesCount":1,"ÑonvalesCount":1,"DiedCount":0}
 {"Name":"Óêğàèíà","Latitude":49,"Longitude":32,"CasesCount":1,"ÑonvalesCount":1,"DiedCount":0}
 {"Name":"Åãèïåò","Latitude":26.25405,"Longitude":29.267548,"CasesCount":19666,"ÑonvalesCount":19666,"DiedCount":816}
+{"Name":"Ìàäàãàñêàğ","Latitude":-18.92496,"Longitude":46.441643,"CasesCount":656,"ÑonvalesCount":656,"DiedCount":2}
+{"Name":"Ëèáåğèÿ","Latitude":5.749972,"Longitude":-9.365852,"CasesCount":269,"ÑonvalesCount":269,"DiedCount":27}

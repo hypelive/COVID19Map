@@ -7,3 +7,6 @@ C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debu
 C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.csproj.CopyComplete
 C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.dll
 C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\obj\Debug\CasesPrediction.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\nunit.framework.dll
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\nunit.framework.pdb
+C:\Users\empil\Desktop\COVID19Map\other\CasesPrediction\CasesPrediction\bin\Debug\nunit.framework.xml

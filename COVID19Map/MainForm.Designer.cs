@@ -53,7 +53,7 @@ namespace COVID19Map
             // 
             this.statisticsMenu.Name = "statisticsMenu";
             this.statisticsMenu.Size = new System.Drawing.Size(65, 22);
-            this.statisticsMenu.Text = "Statistics";
+            this.statisticsMenu.Text = "Статистики";
             // 
             // gMapControl1
             // 
@@ -97,7 +97,6 @@ namespace COVID19Map
             this.MenuBar.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion

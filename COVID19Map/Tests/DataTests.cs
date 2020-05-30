@@ -10,7 +10,7 @@ namespace COVID19Map
 {
     public class COVID_19MapTests
     {
-        [TestCase("Polsha", 49, 15)]
+        [TestCase("Польша", 49, 15)]
         [TestCase("England", 10.0001, -45.9)]
         [TestCase("Russia", 0.004, 19.8)]
         [TestCase("Moscow", -4.90, -7.87)]
@@ -18,9 +18,10 @@ namespace COVID19Map
         [TestCase("Валенсия", 36.90, 78.9080889)]
         public void CorrectSetInDB(string name, double longitude, double latitude)
         {
+            var db = new DataBase();
             var countryData = new CountryData {Name = name, Longitude = longitude, Latitude = latitude};
-            DataBase.SetToDB(countryData);
-            var currentData = DataBase.GetFromDB(name);
+            db.SetToDB(countryData);
+            var currentData = db.GetFromDB(name);
             Assert.AreEqual(latitude, currentData.Latitude);
             Assert.AreEqual(longitude, currentData.Longitude);
         }

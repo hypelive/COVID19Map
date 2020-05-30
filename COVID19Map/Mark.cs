@@ -56,9 +56,7 @@ namespace COVID19Map
 
         public override void OnRender(Graphics g)
         {
-            g.FillEllipse(new SolidBrush(Color.DarkRed),
-                LocalPosition.X, LocalPosition.Y,
-                Size.Width, Size.Height);
+            Render.RenderMark(this, g);
         }
     }
 }

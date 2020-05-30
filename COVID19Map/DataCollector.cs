@@ -23,7 +23,8 @@ namespace COVID19Map
             var count = data.Count;
             for (var i = 0; i < count; i++)
             {
-                var currentData = DataBase.GetFromDB(data[i].Name);
+                var db = new DataBase();
+                var currentData = db.GetFromDB(data[i].Name);
                 if (currentData.Name is null)
                 {
                     parser.ParseСoordinates(data[i]);
@@ -34,7 +35,7 @@ namespace COVID19Map
                     }
                     else
                     {
-                        DataBase.SetToDB(data[i]);
+                        db.SetToDB(data[i]);
                     }
                 }
                 else

@@ -9,10 +9,10 @@ using StatsResources;
 
 namespace COVID19Map
 {
-    static class DataBase
+    class DataBase : IDataBase
     {
         private static string writePath = "DB.txt";
-        public static void SetToDB(CountryData data)
+        public void SetToDB(CountryData data)
         {
             try
             {
@@ -28,7 +28,7 @@ namespace COVID19Map
             }
         }
 
-        public static CountryData GetFromDB(string name)
+        public CountryData GetFromDB(string name)
         {
             try
             {

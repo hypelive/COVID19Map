@@ -10,7 +10,7 @@ namespace COVID19Map
 {
     public class COVID_19MapTests
     {
-        [TestCase("Польша", 49, 15)]
+        [TestCase("Polsha", 49, 15)]
         [TestCase("England", 10.0001, -45.9)]
         [TestCase("Russia", 0.004, 19.8)]
         [TestCase("Moscow", -4.90, -7.87)]

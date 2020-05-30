@@ -39,14 +39,18 @@ namespace COVID19Map
             Size = new Size((int)(2 * radius), (int)(2 * radius));
             Offset = new Point((int)-radius, (int)-radius);
 
-            if (Localization is null || Font is null)
+            if (Localization is null)
             {
                 ToolTipMode = MarkerTooltipMode.Never;
                 return;
             }
-            ToolTip = new GMapRoundedToolTip(this) { Offset = new Point((int)radius, (int)-radius), Font = Font };
+            ToolTip = new GMapRoundedToolTip(this) { Offset = new Point((int)radius, (int)-radius)};
             ToolTipText = $"{CountryName}\n{Localization.GetTotalCasesText()}: {casesCount}\n{Localization.GetConvalesText()}: {convalesCount}\n{Localization.GetDiedText()}: {diedCount}";
             ToolTipMode = MarkerTooltipMode.OnMouseOver;
+            if (!(Font is null))
+            {
+                ToolTip.Font = Font;
+            }
         }
 
         public override void OnRender(Graphics g)

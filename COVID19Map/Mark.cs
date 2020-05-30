@@ -30,7 +30,7 @@ namespace COVID19Map
         private float CasesCount { get; set; }
 
         public Mark(string countryName, PointLatLng point,
-            int casesCount, int convalesCount, int diedCount) : base(point)
+            long casesCount, long convalesCount, long diedCount) : base(point)
         {
             CountryName = countryName;
             CasesCount = casesCount;

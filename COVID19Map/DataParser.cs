@@ -59,9 +59,9 @@ namespace COVID19Map
             var convales = convalesRegex.Match(data);
             var died = dieRegex.Match(data);
             result.Name = name.Groups[1].ToString();
-            int.TryParse(cases.Groups[1].ToString(), out result.CasesCount);
-            int.TryParse(convales.Groups[1].ToString(), out result.СonvalesCount);
-            int.TryParse(died.Groups[1].ToString(), out result.DiedCount);
+            long.TryParse(cases.Groups[1].ToString(), out result.CasesCount);
+            long.TryParse(convales.Groups[1].ToString(), out result.СonvalesCount);
+            long.TryParse(died.Groups[1].ToString(), out result.DiedCount);
             return result;
         }
 

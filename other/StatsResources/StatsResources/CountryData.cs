@@ -11,8 +11,8 @@ namespace StatsResources
         public string Name;
         public double Latitude;
         public double Longitude;
-        public int CasesCount;
-        public int СonvalesCount;
-        public int DiedCount;
+        public long CasesCount;
+        public long СonvalesCount;
+        public long DiedCount;
     }
 }

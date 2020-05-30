@@ -54,7 +54,7 @@
     </Reference>
     <Reference Include="StatsResources, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\other\StatsResources\StatsResources\bin\Debug\StatsResources.dll</HintPath>
+      <HintPath>..\other\StatsResources\StatsResources\bin\Release\StatsResources.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

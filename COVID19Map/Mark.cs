@@ -13,6 +13,7 @@ namespace COVID19Map
     public class Mark : GMapMarker
     {
         public static IMarkLocalization Localization { get; set; }
+        public static IMarkRender Render { get; set; }
         public static Font Font { get; set; }
         public float Radius
         {

@@ -72,6 +72,8 @@
     <Compile Include="DataBase.cs" />
     <Compile Include="DataCollector.cs" />
     <Compile Include="DataParser.cs" />
+    <Compile Include="DefaultMarkRender.cs" />
+    <Compile Include="IMarkRender.cs" />
     <Compile Include="IParser.cs" />
     <Compile Include="Localization\EngMarkLocalization.cs" />
     <Compile Include="Localization\IMarkLocalization.cs" />

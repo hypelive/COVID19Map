@@ -17,13 +17,13 @@ namespace COVID19Map
         private readonly string pluginsHelpText = "Чтобы добавить новый способ подсчета статистики, нужно добавить ваш .dll в папку StatPlugins";
         private readonly string pluginRequirementsText = "Требования к плагину:\n1. должна использоваться StatsResources.dll\n2. должен быть хотя бы один класс, реализующий интерфейс IStatPlugin"; 
 
-        public MainForm(IParser parser, IMarkLocalization localization)
+        public MainForm(IParser parser, IMarkLocalization localization, IMarkRender render)
         {
             InitializeComponent();
 
             Model = new Model(parser);
             InitMap();
-            SetMarks(localization);
+            SetMarks(localization, render);
             AddStats();
         }
 
@@ -50,9 +50,10 @@ namespace COVID19Map
             GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
         }
 
-        private void SetMarks(IMarkLocalization localization)
+        private void SetMarks(IMarkLocalization localization, IMarkRender render)
         {
             Mark.Localization = localization;
+            Mark.Render = render;
             Mark.Font = DefaultFont;
 
             var marks = new GMapOverlay("COVIDMarks");

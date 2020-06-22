@@ -14,27 +14,23 @@ namespace COVID19Map
     public partial class MainForm : Form
     {
         private Model Model { get; set; }
-        private readonly string pluginsHelpText = "Чтобы добавить новый способ подсчета статистики, нужно добавить ваш .dll в папку StatPlugins";
-        private readonly string pluginRequirementsText = "Требования к плагину:\n1. должна использоваться StatsResources.dll\n2. должен быть хотя бы один класс, реализующий интерфейс IStatPlugin"; 
+        private IMarkLocalization clocalization;
 
-        public MainForm(IParser parser, IMarkLocalization localization, IMarkRender render)
+        public MainForm(IParser parser, IMarkLocalization localization, IDataBase dataBase)
         {
             InitializeComponent();
 
-            Model = new Model(parser);
+            Model = new Model(parser, dataBase);
+            clocalization = localization;
             InitMap();
-            SetMarks(localization, render);
+            SetMarks();
             AddStats();
         }
 
         private void pluginsInfoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var message = new StringBuilder();
-            message.AppendLine(pluginsHelpText);
-            message.AppendLine(pluginRequirementsText);
-
-            MessageBox.Show(message.ToString(), pluginsInfoToolStripMenuItem.Text,
-                MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //add Localizat
+            var messageBox = MessageBox.Show("helpText", "Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void InitMap()
@@ -50,10 +46,9 @@ namespace COVID19Map
             GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
         }
 
-        private void SetMarks(IMarkLocalization localization, IMarkRender render)
+        private void SetMarks()
         {
-            Mark.Localization = localization;
-            Mark.Render = render;
+            Mark.Localization = clocalization;
             Mark.Font = DefaultFont;
 
             var marks = new GMapOverlay("COVIDMarks");
@@ -86,7 +81,7 @@ namespace COVID19Map
             }
             pluginsInfoToolStripMenuItem.Name = "pluginsInfoToolStripMenuItem";
             pluginsInfoToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
-            pluginsInfoToolStripMenuItem.Text = "Помощь";
+            pluginsInfoToolStripMenuItem.Text = "Plugins info";
             pluginsInfoToolStripMenuItem.Click += new System.EventHandler(pluginsInfoToolStripMenuItem_Click);
             statisticsMenu.DropDownItems.Add(pluginsInfoToolStripMenuItem);
         }

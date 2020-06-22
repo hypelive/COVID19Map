@@ -7,7 +7,7 @@ using StatsResources;
 
 namespace COVID19Map
 {
-    interface IDataBase
+    public interface IDataBase
     {
         void SetToDB(CountryData data);
         CountryData GetFromDB(string name);

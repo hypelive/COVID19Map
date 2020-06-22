@@ -19,8 +19,8 @@ namespace COVID19Map
             Application.SetCompatibleTextRenderingDefault(false);
             var container = new StandardKernel();
             container.Bind<IParser>().To<DataParser>();
+            container.Bind<IDataBase>().To<DataBase>();
             container.Bind<IMarkLocalization>().ToConstant(new RuMarkLocalization());
-            container.Bind<IMarkRender>().ToConstant(new DefaultMarkRender());
             var form = container.Get<MainForm>();
             Application.Run(form);
         }
